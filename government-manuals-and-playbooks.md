@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Government Manuals And Playbooks -->
 
 * [Login.gov playbook](https://www.login.gov/playbook/) 
-* :smiley:
+* :gb:
