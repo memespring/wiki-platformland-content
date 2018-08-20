@@ -12,5 +12,5 @@
 * [GOV.UK Verify](https://govuk-verify.cloudapps.digital) :gb:
 * [Aadhaar](https://www.uidai.gov.in) 
 
-test :fr:
+test :ind:
 
