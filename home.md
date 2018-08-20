@@ -1,6 +1,8 @@
 <!-- TITLE: Welcome to the Platform Land Wiki -->
 <!-- SUBTITLE: Somthing-->
 
+If you would like to contribute to this wiki, please email [richard_pope@hks.harvard.edu](mailto:richard_pope@hks.harvard.edu)
+
 * [List of government platforms](government-platforms)
 * [List of government design systems](government-design-systems)
 * [List of government manuals/playbooks](government-manuals-and-playbooks)
