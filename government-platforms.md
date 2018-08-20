@@ -3,11 +3,11 @@
 
 
 ## Payment
-* [GOV.UK Pay](https://www.payments.service.gov.uk)
+* [GOV.UK Pay](https://www.payments.service.gov.uk) :gb:
 
 ## Messaging
-* [GOV.UK Notify](https://www.notifications.service.gov.uk)
+* [GOV.UK Notify](https://www.notifications.service.gov.uk) :gb:
 
 ## Identity
-* [GOV.UK Verify](https://govuk-verify.cloudapps.digital)
+* [GOV.UK Verify](https://govuk-verify.cloudapps.digital) :gb:
 
