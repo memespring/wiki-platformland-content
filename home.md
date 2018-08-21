@@ -1,6 +1,8 @@
 <!-- TITLE: Welcome to the Platform Land Wiki -->
 <!-- SUBTITLE: Somthing-->
 
+This is the wiki for the [Platform Land project](https://www.platformland.org).
+
 If you would like to contribute to this wiki, please email [richard_pope@hks.harvard.edu](mailto:richard_pope@hks.harvard.edu)
 
 * [List of government platforms](government-platforms)
