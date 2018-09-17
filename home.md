@@ -9,7 +9,6 @@ If you would like to contribute to this wiki, please email [richard_pope@hks.har
 * [List of government design systems](government-design-systems)
 * [List of government manuals/playbooks](government-manuals-and-playbooks)
 * [Reading lists](reading-lists)
-* [Digital government reports](digital-government-reports)
 
 
 Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/).
