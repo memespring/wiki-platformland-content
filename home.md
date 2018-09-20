@@ -1,5 +1,5 @@
 <!-- TITLE: Welcome to the Platform Land Wiki -->
-<!-- SUBTITLE: Somthing-->
+
 
 This is the wiki for the [Platform Land project](https://www.platformland.org).
 
