@@ -4,4 +4,4 @@
 * Self service
 * Minimise data collection
 * Consider misuse / anti user needs 
-* Support fqall backs (e.g. cash payments / prove identity in person)
+* Support fall backs (e.g. cash payments / prove identity in person)
