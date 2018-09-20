@@ -20,3 +20,8 @@
 ## Facilities management 
 
 e.g. how many parking spaces are free in the hospital car-park
+
+## Visualisation and graphing
+The parrell here is with the [Google Charts API ](https://developers.google.com/chart/). There were conoversations about this at the UK Government Digital Service, but the 'Performance Platform' graph library was never abstracted out into a dedicated service.
+
+##
