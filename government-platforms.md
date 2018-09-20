@@ -11,3 +11,12 @@
 ## Identity
 * [GOV.UK Verify](https://govuk-verify.cloudapps.digital) :gb:
 * [Aadhaar](https://www.uidai.gov.in) :in: 
+
+## Performance and analytics
+
+* [GOV.UK Performance Platform](https://www.gov.uk/performance)
+
+
+## Facilities management 
+
+e.g. how many parking spaces are free in the hospital car-park
