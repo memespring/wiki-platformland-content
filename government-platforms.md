@@ -40,3 +40,7 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 ## Health records
 
 * The UK '[Summary Care Record](https://en.wikipedia.org/wiki/Summary_Care_Record?wprov=sfti1)' is a centralised subset of patient's medical records.
+
+## Public Key Infrastructure
+
+* The [UK NHS has a PKI](https://digital.nhs.uk/services/data-and-cyber-security-protecting-information-and-data-in-health-and-care/cyber-and-data-security-policy-and-good-practice-in-health-and-care/nhs-pki-certificate-information/nhs-pki-certificate-information) for use across the health system
