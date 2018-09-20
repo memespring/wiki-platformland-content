@@ -1,4 +1,4 @@
-<!-- TITLE: Government Platforms -->
+<!-- TITLE: Government Platforms /standards / components-->
 <!-- SUBTITLE: A list of Government Platforms -->
 
 
@@ -33,6 +33,9 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 
 
 ## Digital proofs
+
+* Washington State [allows for digital signatures via GPG](https://lists.gnupg.org/pipermail/gnupg-users/2018-September/060987.html) to notarise documents
+* Estonia's digital id card can be used to sign documents
 
 ## Health records
 
