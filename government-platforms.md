@@ -8,7 +8,7 @@
 ## Messaging
 * [GOV.UK Notify](https://www.notifications.service.gov.uk) :gb:
 
-## Identity
+## Identity, attributes and entitlements
 * [GOV.UK Verify](https://govuk-verify.cloudapps.digital) :gb:
 * [Aadhaar](https://www.uidai.gov.in) :in: 
 
