@@ -1,4 +1,4 @@
-<!-- TITLE: Government Platforms /standards / components-->
+<!-- TITLE: Government platforms -->
 <!-- SUBTITLE: A list of Government Platforms -->
 
 
