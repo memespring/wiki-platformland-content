@@ -33,3 +33,7 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 
 
 ## Digital proofs
+
+## Health records
+
+* The UK '[Summary Care Record](https://en.wikipedia.org/wiki/Summary_Care_Record?wprov=sfti1)' is a centralised subset of patient's medical records.
