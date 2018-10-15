@@ -1,26 +1,22 @@
-<!-- TITLE: Government platforms —->
-<!-- SUBTITLE: A list of Government Platforms —->
+<!-- TITLE: Government platforms -->
+<!-- SUBTITLE: A list of Government Platforms -->
 
 
 ## Payment
 
-| Country  | Platform | Self service |Documentation |
-| ---- | ---- |---- |----- |
-| UK :gb:  | [GOV.UK Pay](https://www.payments.service.gov.uk) | Yes | |
+| Country  | Platform | Self service |
+| ------------- | :------------- | ---- |
+| UK :gb:  | [GOV.UK Pay](https://www.payments.service.gov.uk) | Yes |
 
 
 
 
 ## Messaging
-| Country  | Platform | Self service |Documentation |
-| -———— | -———— |-———— |-———— |
-| UK :gb: | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | |
+* [GOV.UK Notify](https://www.notifications.service.gov.uk) :gb:
 
 ## Identity, attributes and entitlements
-| Country  | Platform | Self service |Documentation |
-| -———— | -———— |-———— |-———— |
-| UK :gb: | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)  | Yes | |
-| India :in: | [Aadhaar](https://www.uidai.gov.in) || 
+* [GOV.UK Verify](https://govuk-verify.cloudapps.digital) :gb:
+* [Aadhaar](https://www.uidai.gov.in) :in: 
 
 ## Performance and analytics
 
@@ -32,24 +28,24 @@
 e.g. how many parking spaces are free in the hospital car-park
 
 ## Visualisation and graphing
-The parrell here is with the [Google Charts API ](https://developers.google.com/chart/). There were conoversations about this at the UK Government Digital Service, but the ‘Performance Platform’ graph library was never abstracted out into a dedicated service.
+The parrell here is with the [Google Charts API ](https://developers.google.com/chart/). There were conoversations about this at the UK Government Digital Service, but the 'Performance Platform' graph library was never abstracted out into a dedicated service.
 
 ## Booking
 
 * Need for a booking platform was identified as part of the UK NHS.uk alpha project
 
 ## Service discovery
-* Need for a service discovery platfomr was identified as part of the UK NHS.uk alpha project. An example would be ‘show me all the places someone can get a foot examination appointment near $postcode’
+* Need for a service discovery platfomr was identified as part of the UK NHS.uk alpha project. An example would be 'show me all the places someone can get a foot examination appointment near $postcode'
 
 
 ## Digital proofs
 
 * Washington State [allows for digital signatures via GPG](https://lists.gnupg.org/pipermail/gnupg-users/2018-September/060987.html) to notarise documents
-* Estonia’s digital id card can be used to sign documents
+* Estonia's digital id card can be used to sign documents
 
 ## Health records
 
-* The UK ‘[Summary Care Record](https://en.wikipedia.org/wiki/Summary_Care_Record?wprov=sfti1)’ is a centralised subset of patient’s medical records.
+* The UK '[Summary Care Record](https://en.wikipedia.org/wiki/Summary_Care_Record?wprov=sfti1)' is a centralised subset of patient's medical records.
 
 ## Public Key Infrastructure
 
