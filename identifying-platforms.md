@@ -8,3 +8,7 @@
 ## Develop institutional capability
 
 Develop the institutional capability ability to spot potential shared capabilities, and invest in teams producing common components and platforms.
+
+## Wardley mapping
+
+Use Wardley mapping to 
