@@ -18,7 +18,6 @@
 | Country  | Platform | Self service | Documentation |
 | ------------- | ------------- | ------------- | ------------- |
 | UK :gb:  | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)| No | [Yes](https://alphagov.github.io/identity-assurance-documentation/) |
-
 | India :in:  | [Aadhaar](https://www.uidai.gov.in) :in: |  | |
 
 
