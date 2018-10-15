@@ -20,7 +20,7 @@ If you would like to contribute to this wiki, please email [richard_pope@hks.har
 * [The cosntituent parts of GaaP](components)
 *  [Users](users)
 *  [Standards processes](standards)
-
+* [Data and registers](registers)
 
 
 
