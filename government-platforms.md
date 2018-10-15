@@ -4,23 +4,24 @@
 
 ## Payment
 
-| Country  | Platform | Self service |
-| ------------- | :------------- | ---- |
-| UK :gb:  | [GOV.UK Pay](https://www.payments.service.gov.uk) | Yes |
-
-
+| Country  | Platform | Self service | Documentation |
+| ------------- | ------------- | ------------- | ------------- |
+| UK :gb:  | [GOV.UK Pay](https://www.payments.service.gov.uk) | Yes | Yes |
 
 
 ## Messaging
-* [GOV.UK Notify](https://www.notifications.service.gov.uk) :gb:
+| Country  | Platform | Self service | Documentation |
+| ------------- | ------------- | ------------- | ------------- |
+| UK :gb:  | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | Yes |
 
 ## Identity, attributes and entitlements
 * [GOV.UK Verify](https://govuk-verify.cloudapps.digital) :gb:
 * [Aadhaar](https://www.uidai.gov.in) :in: 
 
 ## Performance and analytics
-
-* [GOV.UK Performance Platform](https://www.gov.uk/performance)
+| Country  | Platform | Self service | Documentation |
+| ------------- | ------------- | ------------- | ------------- |
+| UK :gb:  | [GOV.UK Performance Platform](https://www.gov.uk/performance) | No | No |
 
 
 ## Facilities management 
