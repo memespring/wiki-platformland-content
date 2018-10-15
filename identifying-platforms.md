@@ -5,6 +5,8 @@
 
 ## User research with digital service teams
 
+The UK GDS conducted 150 interviews with service teams across government, identified them service assessments and 
+
 ## Develop institutional capability
 
 Encorage teqms to spot potential shared capabilities, and as an organisation, invest in teams producing common components and platforms.
