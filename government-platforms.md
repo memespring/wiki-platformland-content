@@ -66,5 +66,3 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 ## Hosting
 
 
-## Sign-on / identity for public servants
-
