@@ -5,4 +5,6 @@
 
 ## User research with digital service teams
 
-## D
+## Develop institutional capability
+
+Develop the institutional capability ability to spot potential shared capabilities, and invest in teams producing common components and platforms.
