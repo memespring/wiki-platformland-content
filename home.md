@@ -17,6 +17,7 @@ If you would like to contribute to this wiki, please email [richard_pope@hks.har
 * [Singapore](singapore)
 * [Public Key Infrastructure](pki)
 * [Research questions](research-questions)
+* [The cosntituent parts of GaaP](components)
 
 
 
