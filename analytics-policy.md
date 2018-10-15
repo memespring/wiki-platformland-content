@@ -8,3 +8,5 @@ In theory better data and better platforms mean:
 * Be able to ask questions and get probabilities back. Not tables of numbers.??
 * Need to be published with error margins unemployment stats
 * Versioning not publishing
+* When government changes tax you should be able to say what it means for an individual
+* More models need to be open / inspectable 
