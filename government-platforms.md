@@ -73,5 +73,7 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 * Chat 
 * Email
 * Continuous integration
+* Wiki
+* Documentation platform
 
 
