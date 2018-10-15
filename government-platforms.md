@@ -1,11 +1,11 @@
-<!— TITLE: Government platforms —>
-<!— SUBTITLE: A list of Government Platforms —>
+<!-- TITLE: Government platforms —->
+<!-- SUBTITLE: A list of Government Platforms —->
 
 
 ## Payment
 
 | Country  | Platform | Self service |Documentation |
-| -———— | -———— |-———— |-———— |
+| ---- | ---- |---- |----- |
 | UK :gb:  | [GOV.UK Pay](https://www.payments.service.gov.uk) | Yes | |
 
 
