@@ -5,19 +5,20 @@
 ## Payment
 
 | Country  | Platform | Self service |Documentation |
-| -———— | -———— |-———— |
+| -———— | -———— |-———— |-———— |
 | UK :gb:  | [GOV.UK Pay](https://www.payments.service.gov.uk) | Yes | |
+
 
 
 
 ## Messaging
 | Country  | Platform | Self service |Documentation |
-| -———— | -———— |-———— |
+| -———— | -———— |-———— |-———— |
 | UK :gb: | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | |
 
 ## Identity, attributes and entitlements
 | Country  | Platform | Self service |Documentation |
-| -———— | -———— |-———— |
+| -———— | -———— |-———— |-———— |
 | UK :gb: | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)  | Yes | |
 | India :in: | [Aadhaar](https://www.uidai.gov.in) || 
 
