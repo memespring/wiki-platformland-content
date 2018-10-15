@@ -24,6 +24,7 @@ If you would like to contribute to this wiki, please email [richard@memespring.c
 * [Governence and operations](governence)
 * [Identifying platforms](identifying-platforms)
 * [Analytics for policy making](analytics-policy)
+* [Risks of GaaP](risks)
 
 
 Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/).
