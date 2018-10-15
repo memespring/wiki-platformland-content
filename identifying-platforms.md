@@ -14,3 +14,5 @@ Encorage teqms to spot potential shared capabilities, and as an organisation, in
 Use [Wardley mapping](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html) to identify potentual for shared components / existing duplicaiton.
 
 ## 'Horizon scanning'
+
+## Code reviews
