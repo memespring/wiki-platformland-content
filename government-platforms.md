@@ -65,4 +65,11 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 
 ## Hosting
 
+## Internal tools and platforms
+
+* Code version control
+* Single sign-on for public servants
+* Chat 
+* Email
+
 
