@@ -3,12 +3,11 @@
 
 
 ## Payment
-* [GOV.UK Pay](https://www.payments.service.gov.uk) :gb:
 
-| Country  | Second Header |
+| Country  | Platform |
 | ------------- | ------------- |
-| UK :gb:  | Content Cell  |
-| Content Cell  | Content Cell  |
+| UK :gb:  | [GOV.UK Pay](https://www.payments.service.gov.uk) |
+
 
 
 
