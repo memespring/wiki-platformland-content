@@ -62,3 +62,5 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 ## Document scanning
 
 ## Storage
+
+## Hosting
