@@ -3,7 +3,7 @@
 
 This is the wiki for the [Platform Land project](https://www.platformland.org).
 
-If you would like to contribute to this wiki, please email [richard_pope@hks.harvard.edu](mailto:richard_pope@hks.harvard.edu)
+If you would like to contribute to this wiki, please email [richard@memespring.co.uk](mailto:richard@memespring.co.uk)
 
 * [List of government platforms](government-platforms)
 * [List of government design systems](government-design-systems)
