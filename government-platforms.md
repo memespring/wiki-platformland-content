@@ -5,9 +5,9 @@
 ## Payment
 * [GOV.UK Pay](https://www.payments.service.gov.uk) :gb:
 
-| First Header  | Second Header |
+| Country  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| UK :gb:  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
