@@ -9,7 +9,6 @@
 	* 
 
 3. Start a conversation about the institutional, societal and democratic implications of digital platforms in government and beyond
-
-* What are best funding methods (i.e. central funding / recharging)
+	* What are best funding methods (i.e. central funding / recharging)
 
 4. Test ways of explaining the value and implications of digital platforms to politicians and leaders
