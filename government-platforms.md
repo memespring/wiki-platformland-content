@@ -4,8 +4,8 @@
 
 ## Payment
 
-| Country  | Platform |
-| ------------- | ------------- |
+| Country  | Platform | Self service |
+| ------------- | :------------- | ----
 | UK :gb:  | [GOV.UK Pay](https://www.payments.service.gov.uk) |
 
 
