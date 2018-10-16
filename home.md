@@ -6,7 +6,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Who are the users?](users)
 * [The cosntituent parts of GaaP](components)
 
-## Catalouge
+## Catalogue
 * [Government platforms](government-platforms)
 * [Government design systems](government-design-systems)
 * [Manuals/playbooks](government-manuals-and-playbooks)
