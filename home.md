@@ -1,7 +1,6 @@
 <!-- TITLE: Welcome to the Platform Land Wiki -->
 
-
-This is the wiki for the [Platform Land project](https://www.platformland.org). If you would like to contribute to this wiki, please email [richard@memespring.co.uk](mailto:richard@memespring.co.uk)
+This is the wiki for the [Platform Land project](https://www.platformland.org). If you would like to contribute to this wiki, please email [richard@memespring.co.uk](mailto:richard@memespring.co.uk) or for this [repository on GitHub](https://github.com/memespring/wiki-platformland-content).
 
 * [Research questions](research-questions)
 * [Who are the users?](users)
