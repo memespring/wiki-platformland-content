@@ -20,6 +20,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Identifying platforms](identifying-platforms)
 * [Analytics for policy making](analytics-policy)
 * [Risks of GaaP](risks)
+* [Explaining GaaP](explaining)
 
 ## Case studies / countries
 * [Estonia](estonia)
