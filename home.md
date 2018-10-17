@@ -12,7 +12,8 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Manuals/playbooks](government-manuals-and-playbooks)
 * [Standards processes](standards)
 * [Data and registers](registers)
-* [Governence and operations](governence)
+
+
 
 ## Guides
 * [Documentation](documentation)
@@ -24,6 +25,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Securing funding](funding)
 * [Adoption](adoption)
 * [Who should operate a platform?](operating-platforms)
+* [Governence and operations](governence)
 
 ## Case studies / countries
 * [Estonia](estonia)
