@@ -5,7 +5,7 @@
 
 ## User research with digital service teams
 
-The UK GDS conducted 150 interviews with service teams across government, identified them service assessments and performance data. 
+The UK GDS conducted 150 interviews with service teams across government. Identify teams to talk to from service assessments, reviewing or compiling lists of government services, reviewing PDF forms listed on government websites.
 
 ## Develop institutional capability
 
