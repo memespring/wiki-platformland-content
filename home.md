@@ -24,7 +24,6 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Explaining GaaP](explaining)
 * [Securing funding](funding)
 * [Adoption](adoption)
-* [Who should operate a platform?](operating-platforms)
 * [Governence and operations](governence)
 
 ## Case studies / countries
