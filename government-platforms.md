@@ -5,25 +5,25 @@
 ## Payment
 
 | Country  | Platform | Self service | Documentation | Code libraries |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | :gb: UK | [GOV.UK Pay](https://www.payments.service.gov.uk) | Yes | Yes | |
 
 
 ## Messaging
 | Country  | Platform | Self service | Documentation | Code libraries |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | :gb: UK  | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | Yes | |
 
 ## Identity, attributes and entitlements
 | Country  | Platform | Self service | Documentation | Code libraries |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | :gb: UK | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)| No | [Yes](https://alphagov.github.io/identity-assurance-documentation/) | |
 | 🇮🇳 India | [Aadhaar](https://www.uidai.gov.in) |  | | |
 | :us: USA | [login.gov](https://www.login.gov) | [Yes](https://developers.login.gov/testing/) | [Yes](https://developers.login.gov) | |
 
 ## Performance and analytics
 | Country  | Platform | Self service | Documentation | Code libraries |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | :gb: UK | [GOV.UK Performance Platform](https://www.gov.uk/performance) | No | No |  |
 
 
@@ -71,7 +71,7 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 
 ## Hosting
 | Country  | Platform | Self service | Documentation | Code libraries |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | USA :us:  | [cloud.gov](https://cloud.gov) | [Yes](https://cloud.gov/pricing/) | [Yes]()https://cloud.gov/docs/ | [Yes](https://github.com/18F/cf-hello-worlds) |
 
 ## Internal tools and platforms
