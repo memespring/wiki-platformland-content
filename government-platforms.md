@@ -27,6 +27,12 @@
 | UK :gb:  | [GOV.UK Performance Platform](https://www.gov.uk/performance) | No | No |
 
 
+## Publishing
+
+| Country  | Platform | Self service | Documentation |
+| ------------- | ------------- | ------------- | ------------- |
+| UK :gb:  | [GOV.UK](https://www.gov.uk) | Partially | |
+
 ## Chat / 2-way messaging
 
 ## Facilities management 
