@@ -1,5 +1,5 @@
-<!-- TITLE: Explaining -->
-<!-- SUBTITLE: A quick summary of Explaining -->
+<!-- TITLE: Explaining government as a platform-->
+<!-- SUBTITLE: Different strategies and mataphors -->
 
 ## The infrastructure argument
 
@@ -24,9 +24,15 @@ While working to improve X, Y, Z services, we identified some common things that
 Government is doing X thing N times. It's wasting money and is confusing for citizens
 
 
+## Inconstitency
+
+Government does not have a difinitive list of companies / local authorities. 
+
 ## Building blocks
 
+By building reusable blocks - like booking an appointment or paying for somethign - we can make it quicker and cheaper to assemble services.
 
+Cons: It's hard to explain the parts that don't have a user-facing component such as a register of companies.
 
 ## Enabling end-to-end service redesign
 
@@ -36,5 +42,3 @@ Government is doing X thing N times. It's wasting money and is confusing for cit
 The 1st governments to become nativly digital will have a advantage over other countries.
 
 ## The app store
-
-## 
