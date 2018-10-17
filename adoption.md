@@ -11,3 +11,5 @@ There are risks and oppertunities around trying to get adopted by large / high p
 ## Messaging and 'sales'
 
 Be confident in the message that you're communicating. It's going to ‘save this much time’ or ‘it's going to be this much more valuable in terms of marginal costs’ or ‘your integration costs are going to be lower’.
+
+Be open and transparent about costs to the government users of the platform. 
