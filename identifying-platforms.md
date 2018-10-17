@@ -9,6 +9,8 @@ The UK GDS conducted 150 interviews with service teams across government. Identi
 
 Conduct interviews with teams to undertand what their service does, what needs it is meeting, what needs they would like to meet but can’t, and what support they would like.
 
+Use these to compile a list of the number of services that might benefit from a particular shared capability.
+
 ## Develop institutional capability
 
 Encorage teqms to spot potential shared capabilities, and as an organisation, invest in teams producing common components and platforms.
