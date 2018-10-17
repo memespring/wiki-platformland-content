@@ -54,5 +54,5 @@ The 1st governments to become nativly digital will have a advantage over other c
 
 this is a [link to google][1]
 
-[1]: www.google.com testing testing
+[1]: www.google.com
 
