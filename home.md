@@ -25,7 +25,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Securing funding](funding)
 * [Adoption](adoption)
 * [Governence and operations](governence)
-* [Desinging a platform as  a market](platforms-as-markets)
+
 ## Case studies / countries
 * [Estonia](estonia)
 * [Singapore](singapore)
