@@ -33,6 +33,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 ## Reading lists & resources
 * [Academics researching GaaP / platforms](researchers)
 * [Definitions of Government as a Platform](definitions-gaap)
+* [Definitions of a platform](definitions-platform)
 * [Reading lists](reading-lists)
 * [Public Key Infrastructure](pki)
 
