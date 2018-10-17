@@ -51,8 +51,3 @@ Cons: It's hard to explain the parts that don't have a user-facing component suc
 The 1st governments to become nativly digital will have a advantage over other countries.
 
 ## The app store
-
-this is a [link to google][1]
-
-[1]: This is a test
-
