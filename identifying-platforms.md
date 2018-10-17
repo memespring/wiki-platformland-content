@@ -16,3 +16,9 @@ Use [Wardley mapping](https://blog.gardeviance.org/2015/02/an-introduction-to-wa
 ## 'Horizon scanning'
 
 ## Code reviews
+
+Semi-automated searches of government git repositories looking for common capabilities is a theoretical possibility.
+
+## Desk research
+
+Reviewing data from service assessments, legislation and lists of services looking for potentual comnmon capabilities.
