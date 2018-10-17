@@ -12,4 +12,4 @@ There are risks and oppertunities around trying to get adopted by large / high p
 
 Be confident in the message that you're communicating. It's going to ‘save this much time’ or ‘it's going to be this much more valuable in terms of marginal costs’ or ‘your integration costs are going to be lower’.
 
-Be open and transparent about costs to the government users of the platform. 
+Be open and transparent about costs to the government users of the platform. Help them understand the unit costs and that those costs will come down as more  government servies use the paltform. Do this even if they are not directly paying for the service (as it will help them undertsand the cost if that happens in the future).
