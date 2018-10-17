@@ -8,14 +8,17 @@ Platforms represent shared infrastructure. A modern government needs to approach
 
 ## The technology stack
 
+This is how Amazon, Google, Facebook do things.
 
 ## The burning platform
+
+
 
 ## Things we identified during transformation
 
 While working to improve X, Y, Z services, we identified some common things that are broken.
 
-## Duplication
+## Duplication and cost savings
 
 Government is doing X thing N times. It's wasting money and is confusing for citizens
 
