@@ -12,6 +12,7 @@ This is how Amazon, Google, Facebook do things.
 
 ## The burning platform
 
+Genuine accountability for people who break technology platforms is coming. You have a platform of sorts today, it exists, is it up to the job? Do you think you have a security team as good as facebook? Could you spot malicious activity?
 
 
 ## Things we identified during transformation
