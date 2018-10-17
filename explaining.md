@@ -4,12 +4,16 @@
 
 ## Digital service teams are your users
 
-By 
+
 
 ## The infrastructure argument
 
 Platforms represent shared infrastructure. A modern government needs to approach digital platforms in the same way it does roads or company law.
 
+
+## A better, digital, democracy
+
+Digitla platforms can tranform the relationship between citizens and their government.
 
 ## The technology stack
 
