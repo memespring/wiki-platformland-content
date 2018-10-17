@@ -52,7 +52,3 @@ The 1st governments to become nativly digital will have a advantage over other c
 
 ## The app store
 
-
-this is a [link to google][1]
-
-[1]: www.google.com
