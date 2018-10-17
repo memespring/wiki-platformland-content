@@ -1,6 +1,11 @@
 <!-- TITLE: Explaining government as a platform-->
 <!-- SUBTITLE: Different strategies and mataphors -->
 
+
+## Digital service teams are your users
+
+By 
+
 ## The infrastructure argument
 
 Platforms represent shared infrastructure. A modern government needs to approach digital platforms in the same way it does roads or company law.
@@ -42,3 +47,4 @@ Cons: It's hard to explain the parts that don't have a user-facing component suc
 The 1st governments to become nativly digital will have a advantage over other countries.
 
 ## The app store
+
