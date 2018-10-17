@@ -22,6 +22,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Risks of GaaP](risks)
 * [Explaining GaaP](explaining)
 * [Securing funding](funding)
+* [Adoption](adoption)
 ## Case studies / countries
 * [Estonia](estonia)
 * [Singapore](singapore)
