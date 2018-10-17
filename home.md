@@ -23,6 +23,8 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Explaining GaaP](explaining)
 * [Securing funding](funding)
 * [Adoption](adoption)
+* [Who should operate a platform?](operating-platforms)
+
 ## Case studies / countries
 * [Estonia](estonia)
 * [Singapore](singapore)
