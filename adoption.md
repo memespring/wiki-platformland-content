@@ -21,3 +21,7 @@ Be open about what you are learning through user research and observing usage.
 Tell stories about why it is better and how government users are using the platform.
 
 Be clear about the value that you are delivering in terms of savings and usage.
+
+## Procurement
+
+Remove procuerment from the process as much as possible.
