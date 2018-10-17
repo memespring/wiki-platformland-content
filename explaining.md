@@ -4,7 +4,7 @@
 
 ## Digital service teams are your users
 
-Meet the needs of service teams, so that they can meet the needs of their users, and as a consequence of that, public services improve and the quality of people's experience of the state is transformed.
+Meet the needs of service teams, so that they can meet the needs of their users, and as a consequence of that, public services improve and the quality of people's experience of the state is transformed. The primary users of platforms are digital service teams elsewhere in government.
 
 ## The infrastructure argument
 
