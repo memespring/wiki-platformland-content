@@ -21,7 +21,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Analytics for policy making](analytics-policy)
 * [Risks of GaaP](risks)
 * [Explaining GaaP](explaining)
-
+* [Securing funding](funding)
 ## Case studies / countries
 * [Estonia](estonia)
 * [Singapore](singapore)
