@@ -8,4 +8,4 @@
 
 ## Other
 
-* [](https://hbr.org/2006/10/strategies-for-two-sided-markets)
+* [Strategies for Two-Sided Markets](https://hbr.org/2006/10/strategies-for-two-sided-markets)
