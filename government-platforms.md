@@ -19,7 +19,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | UK :gb:  | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)| No | [Yes](https://alphagov.github.io/identity-assurance-documentation/) |
 | India 🇮🇳  | [Aadhaar](https://www.uidai.gov.in) |  | |
-
+| USA :usa: | [login.gov](https://www.login.gov) | [Yes](https://developers.login.gov/testing/) | [Yes](https://developers.login.gov) |
 
 ## Performance and analytics
 | Country  | Platform | Self service | Documentation |
