@@ -16,4 +16,4 @@ Be open and transparent about costs to the government users of the platform. Hel
 
 ## Openness
 
-Be open about what youa re learning through user research and observing usage.
+Be open about what you are learning through user research and observing usage.
