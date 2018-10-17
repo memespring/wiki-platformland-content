@@ -81,5 +81,5 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 * Continuous integration
 * Wiki
 * Documentation platform
-
+* Release notes
 
