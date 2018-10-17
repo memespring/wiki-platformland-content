@@ -3,6 +3,7 @@
 
 1. Give digital service units resources to help them build good platforms
  * What are the properties of a successful platform ecosystem. What is the same about government and what is just hard?
+ * Can you get to systemic transformation by using platforms to address the needs of existing government services?
 
 
 2. Identify the important parts of platform government and develop a common language for talking about it
