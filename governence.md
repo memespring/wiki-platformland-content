@@ -16,3 +16,4 @@ If a department is delivering a program of work in a particular area, and there 
 
 * Digitial service units as incubators of platforms that are then hadned over to relivant parts of government?
 * Idintifying potentual, existing common capabilities and mandating they are moved to a new central organsiation? Or multiple capabilities merged?
+* Risks if things not desinged as platforms for begining?
