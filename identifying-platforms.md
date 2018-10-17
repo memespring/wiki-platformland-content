@@ -7,6 +7,8 @@
 
 The UK GDS conducted 150 interviews with service teams across government. Identify teams to talk to from service assessments, reviewing or compiling lists of government services, reviewing PDF forms listed on government websites.
 
+Conduct interviews with teams to undertand what their service does, what needs it is meeting, what needs they would like to meet but can’t, and what support they would like.
+
 ## Develop institutional capability
 
 Encorage teqms to spot potential shared capabilities, and as an organisation, invest in teams producing common components and platforms.
