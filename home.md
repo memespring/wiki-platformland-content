@@ -28,6 +28,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 ## Bigger picture
 
 * [Risks of GaaP](risks)
+* [Data access not data sharing](data-access)
 
 ## Case studies / countries
 * [Estonia](estonia)
