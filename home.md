@@ -3,7 +3,6 @@
 This is the wiki for the [Platform Land project](https://www.platformland.org). If you would like to contribute to this wiki, please email [richard@memespring.co.uk](mailto:richard@memespring.co.uk) or fork this [repository on GitHub](https://github.com/memespring/wiki-platformland-content).
 
 * [Research questions](research-questions)
-* [Who are the users?](users)
 * [The cosntituent parts of GaaP](components)
 
 ## Catalogue
@@ -16,15 +15,19 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 
 
 ## Guides
-* [Documentation](documentation)
+* [Who are the users?](users)
 * [What makes a good platform](good-platforms)
 * [Identifying platforms](identifying-platforms)
+* [Good documentation](documentation)
 * [Analytics for policy making](analytics-policy)
-* [Risks of GaaP](risks)
-* [Explaining GaaP](explaining)
 * [Securing funding](funding)
 * [Adoption](adoption)
 * [Governence and operations](governence)
+* [Explaining GaaP](explaining)
+
+## Bigger picture
+
+* [Risks of GaaP](risks)
 
 ## Case studies / countries
 * [Estonia](estonia)
