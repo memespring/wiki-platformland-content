@@ -29,6 +29,8 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 ## Case studies / countries
 * [Estonia](estonia)
 * [Singapore](singapore)
+* [UK](uk)
+* [India](india)
 
 ## Reading lists & resources
 * [Academics researching GaaP / platforms](researchers)
