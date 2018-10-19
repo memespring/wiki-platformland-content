@@ -1,5 +1,5 @@
 # Real-time government services
-
+One of the characteristics of today’s digital service is that they operate in real-time.
 
 ## Why real-time services?
 * Proactivly inform users about changes / potentual changes based on data already held. e.g. child reaching school age
