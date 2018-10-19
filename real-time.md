@@ -4,6 +4,8 @@ One of the characteristics of today’s digital service is that they operate in 
 ## Causes
 
 * Batch processes to copy and share data between parts of government
+* 'Back-end' / 'back-office' processes have not been digitised
+* 
 
 ## Why real-time services?
 
