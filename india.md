@@ -6,7 +6,7 @@
 
 ### Aadhaar
 
-12 digit number verified using Verhoeff checksum
+12 digit number. Inputs can be checked for validity (of the number) using  [Verhoeff checksum](http://apps.nic.in/apps/government/aadhaar-number-validation-verhoeff-algorithm).
 
 ### eKYC
 
