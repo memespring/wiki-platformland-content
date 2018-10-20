@@ -8,6 +8,8 @@
 
 12 digit number. Inputs can be checked for validity (of the number) using  [Verhoeff checksum](http://apps.nic.in/apps/government/aadhaar-number-validation-verhoeff-algorithm).
 
+The Indian government [maintains a list of supported biometric sensors](http://www.stqc.gov.in/sites/upload_files/stqc/files/List%20of%20BiometricDevices_readywith%20RD%20service_14-08-2017.pdf).
+
 ### eKYC
 
 Proof of identity and address using Aadhaar. If authentication is sucessful, the follow data gets returned:
