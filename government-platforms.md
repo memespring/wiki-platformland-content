@@ -12,7 +12,7 @@
 
 ## Messaging
 | Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ----------- | -----------|
+| ------------- | ------------- | ------------- | ------------- | ------------- | ----------- | -----------|-----------|
 | :gb: UK  | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | Yes | | Cabinet Office | Central and local government|
 
 ## Identity, attributes and entitlements
