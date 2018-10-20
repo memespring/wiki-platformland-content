@@ -17,7 +17,7 @@
 
 ## Identity, attributes and entitlements
 | Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use | Opencource |
-| ------------- | ------------- | ------------- | ------------- | ------------- | -------------- | -------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | -------------- | -------------- |-------------- |
 | :gb: UK | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)| No | [Yes](https://alphagov.github.io/identity-assurance-documentation/) | | Cabinet Office | Central government | |
 | 🇮🇳 India | [Aadhaar](https://www.uidai.gov.in) |  | | | Ministry of Electronics and Information Technology| Society-wide ||
 | 🇮🇳 India | [eKYC](http://indiastack.org/ekyc/)|Yes|Yes|Yes| | Society-wide | |
