@@ -6,6 +6,8 @@
 
 ### Aadhaar
 
+12 digit number verified using Verhoeff checksum
+
 ### eKYC
 
 Proof of identity and address using Aadhaar. 
