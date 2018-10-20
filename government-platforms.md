@@ -64,6 +64,11 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 * Washington State [allows for digital signatures via GPG](https://lists.gnupg.org/pipermail/gnupg-users/2018-September/060987.html) to notarise documents
 * Estonia's digital id card can be used to sign documents
 
+| Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ----------|
+| 🇮🇳 India  | [DigiLocker](https://digilocker.gov.in) |  | |  | Ministry of Electronics & Information Technology  | Society-wide |
+
+
 ## Health records
 
 * The UK '[Summary Care Record](https://en.wikipedia.org/wiki/Summary_Care_Record?wprov=sfti1)' is a centralised subset of patient's medical records.
