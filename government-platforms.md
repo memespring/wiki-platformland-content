@@ -34,6 +34,7 @@
 | Country  | Platform | Self service | Documentation |
 | ------------- | ------------- | ------------- | ------------- |
 | UK :gb:  | [GOV.UK](https://www.gov.uk) | Partially | |
+|USA :us:| [Federalist](https://18f.gsa.gov/what-we-deliver/federalist/) | [Yes]()https://federalist-docs.18f.gov/pages/how-federalist-works/| 
 
 ## Chat / 2-way messaging
 
