@@ -2,12 +2,14 @@
 
 [IndiaStack](http://indiastack.org) is the name of the programme to develop a set of national-wide platforms for identity and finance.
 
-## Aadhaar
+## Platforms
 
-## eKYC
+### Aadhaar
 
-## UPI
+### eKYC
 
-## Digilocker
+### UPI
 
-## eSign
+### Digilocker
+
+### eSign
