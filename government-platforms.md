@@ -20,7 +20,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | -------------- |
 | :gb: UK | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)| No | [Yes](https://alphagov.github.io/identity-assurance-documentation/) | | Cabinet Office |
 | 🇮🇳 India | [Aadhaar](https://www.uidai.gov.in) |  | | | Ministry of Electronics and Information Technology|
-| India | [eKYC](http://indiastack.org/ekyc/)|Yes|Yes|Yes| |
+| 🇮🇳 India | [eKYC](http://indiastack.org/ekyc/)|Yes|Yes|Yes| |
 | :us: USA | [login.gov](https://www.login.gov) | [Yes](https://developers.login.gov/testing/) | [Yes](https://developers.login.gov) | | ||
 
 ## Performance and analytics
@@ -51,6 +51,9 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 
 ## Document signing
 
+| Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ----------- | -----------|
+| 🇮🇳 India  | [eSign](http://indiastack.org/esign/) |  | [Yes]()http://cca.gov.in/cca/sites/default/files/files/eSign-APIv2.1.pdf | No | | Society-wide|
 
 ## Service discovery
 * Need for a service discovery platfomr was identified as part of the UK NHS.uk alpha project. An example would be 'show me all the places someone can get a foot examination appointment near $postcode'
