@@ -11,7 +11,7 @@
 
 ## Messaging
 | Country  | Platform | Self service | Documentation | Code libraries |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------ |
 | :gb: UK  | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | Yes | |
 
 ## Identity, attributes and entitlements
