@@ -15,12 +15,12 @@
 | :gb: UK  | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | Yes | |
 
 ## Identity, attributes and entitlements
-| Country  | Platform | Self service | Documentation | Code libraries |
+| Country  | Platform | Self service | Documentation | Code libraries | Ministry |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :gb: UK | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)| No | [Yes](https://alphagov.github.io/identity-assurance-documentation/) | |
-| 🇮🇳 India | [Aadhaar](https://www.uidai.gov.in) |  | | |
-| India | [eKYC](http://indiastack.org/ekyc/)|Yes|Yes|Yes|
-| :us: USA | [login.gov](https://www.login.gov) | [Yes](https://developers.login.gov/testing/) | [Yes](https://developers.login.gov) | |
+| :gb: UK | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)| No | [Yes](https://alphagov.github.io/identity-assurance-documentation/) | | Cabinet Office |
+| 🇮🇳 India | [Aadhaar](https://www.uidai.gov.in) |  | | | Ministry of Electronics and Information Technology|
+| India | [eKYC](http://indiastack.org/ekyc/)|Yes|Yes|Yes| |
+| :us: USA | [login.gov](https://www.login.gov) | [Yes](https://developers.login.gov/testing/) | [Yes](https://developers.login.gov) | | |
 
 ## Performance and analytics
 | Country  | Platform | Self service | Documentation | Code libraries |
