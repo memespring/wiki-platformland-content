@@ -16,12 +16,12 @@
 | :gb: UK  | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | Yes | | Cabinet Office | Central and local government|
 
 ## Identity, attributes and entitlements
-| Country  | Platform | Self service | Documentation | Code libraries | Ministry |
+| Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use |
 | ------------- | ------------- | ------------- | ------------- | ------------- | -------------- |
-| :gb: UK | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)| No | [Yes](https://alphagov.github.io/identity-assurance-documentation/) | | Cabinet Office |
-| 🇮🇳 India | [Aadhaar](https://www.uidai.gov.in) |  | | | Ministry of Electronics and Information Technology|
-| 🇮🇳 India | [eKYC](http://indiastack.org/ekyc/)|Yes|Yes|Yes| |
-| :us: USA | [login.gov](https://www.login.gov) | [Yes](https://developers.login.gov/testing/) | [Yes](https://developers.login.gov) | | ||
+| :gb: UK | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)| No | [Yes](https://alphagov.github.io/identity-assurance-documentation/) | | Cabinet Office | Central government |
+| 🇮🇳 India | [Aadhaar](https://www.uidai.gov.in) |  | | | Ministry of Electronics and Information Technology| Society-wide |
+| 🇮🇳 India | [eKYC](http://indiastack.org/ekyc/)|Yes|Yes|Yes| | Society-wide |
+| :us: USA | [login.gov](https://www.login.gov) | [Yes](https://developers.login.gov/testing/) | [Yes](https://developers.login.gov) | [Yes](https://github.com/18F/identity-saml-python) | 18F (General Services Administration) |Federal government only?|
 
 ## Performance and analytics
 | Country  | Platform | Self service | Documentation | Code libraries |
