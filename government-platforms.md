@@ -7,7 +7,7 @@
 | Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ----------|
 | :gb: UK | [GOV.UK Pay](https://www.payments.service.gov.uk) | Yes | Yes | | Cabinet Office | Central and local government|
-| India | [UPI](https://www.npci.org.in/product-overview/upi-product-overview) | | | | | Government and private sector |
+| India | [UPI](https://www.npci.org.in/product-overview/upi-product-overview) | Unknown | No | | National Payments Corporation of India / Reserve Bank of India | Government and private sector |
 
 
 ## Messaging
