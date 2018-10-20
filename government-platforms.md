@@ -4,15 +4,15 @@
 
 ## Payment
 
-| Country  | Platform | Self service | Documentation | Code libraries |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| :gb: UK | [GOV.UK Pay](https://www.payments.service.gov.uk) | Yes | Yes | |
+| Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ----------|
+| :gb: UK | [GOV.UK Pay](https://www.payments.service.gov.uk) | Yes | Yes | | Cabinet Office | Central and local government|
 
 
 ## Messaging
-| Country  | Platform | Self service | Documentation | Code libraries |
-| ------------- | ------------- | ------------- | ------------- | ------------- | 
-| :gb: UK  | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | Yes | |
+| Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ----------- | -----------|
+| :gb: UK  | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | Yes | | Cabinet Office | Central and local government|
 
 ## Identity, attributes and entitlements
 | Country  | Platform | Self service | Documentation | Code libraries | Ministry |
