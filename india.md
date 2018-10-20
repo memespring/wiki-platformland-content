@@ -58,7 +58,9 @@ Proof of identity and address using Aadhaar. If authentication is sucessful, the
 
 [source](https://aadhaarapi.com/aadhaar-response-format/)
 
-### UPI
+### Unified Payment Interface (UPI)
+
+A nationwide and economy-wide payments system. Users can send of request money using different identifiders (Aadhaaar number, phone number, bank acount or 'virtual payment address')
 
 ### Digilocker
 
