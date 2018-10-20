@@ -16,7 +16,7 @@ The Indian government [maintains a list of supported biometric sensors](http://w
 
 ### eKYC
 
-Proof of identity and address using Aadhaar. If authentication is sucessful, the follow data gets returned:
+Proof of identity and address using Aadhaar. If authentication is sucessful, the following data gets returned:
 
 ```
     User_Id: 'OUR SYSTEM USER ID',
