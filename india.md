@@ -1,8 +1,8 @@
 # India
 
-[IndiaStack](http://indiastack.org) is the name of the programme to develop a set of national-wide platforms for identity and finance.
+## IndiaStack
 
-## Platforms
+[IndiaStack](http://indiastack.org) is the name of the programme to develop a set of society-wide platforms for identity and finance. Although run/mandated by central government, the vision is for shared national infrastructure for use by government and beyond.
 
 ### Aadhaar
 
@@ -63,5 +63,11 @@ Proof of identity and address using Aadhaar. If authentication is sucessful, the
 A nationwide and economy-wide payments system. Users can send of request money using different identifiders (Aadhaaar number, phone number, bank acount or 'virtual payment address')
 
 ### Digilocker
+
+[DigiLocker](https://digilocker.gov.in) personal data store for signed documents / digital proofs. It's operated by the Ministry of Electronics & Information Technology. It uses Aadhaar for certifying government documents (although it is possible to use DigiLocker without linking it to an Aadhaar account.
+
+[It is possible to add a digital driving licence to DigiLocker](https://indianexpress.com/article/what-is/digilocker-indian-railways-id-proof-aadhaar-card-driving-licence-upload-documents-5246808/). Driving licences and Aadhaar accounts in DigiLocker can be used as valid idenetity docuemmtns for travelling on India Railways.
+
+
 
 ### eSign
