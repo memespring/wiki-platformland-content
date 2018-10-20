@@ -16,7 +16,7 @@
 | :gb: UK  | [GOV.UK Notify](https://www.notifications.service.gov.uk) | Yes | Yes | | Cabinet Office | Central and local government|
 
 ## Identity, attributes and entitlements
-| Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use | Opencource |
+| Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use | Opensource |
 | ------------- | ------------- | ------------- | ------------- | ------------- | -------------- | -------------- |-------------- |
 | :gb: UK | [GOV.UK Verify](https://govuk-verify.cloudapps.digital)| No | [Yes](https://alphagov.github.io/identity-assurance-documentation/) | | Cabinet Office | Central government | |
 | 🇮🇳 India | [Aadhaar](https://www.uidai.gov.in) | [via 3rd parties](http://indiastack.org/aadhaar/) | [via 3rd parties](http://indiastack.org/aadhaar/) | [via 3rd parties](http://indiastack.org/aadhaar/) | Ministry of Electronics and Information Technology| Society-wide ||
