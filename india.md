@@ -6,7 +6,11 @@
 
 ### Aadhaar
 
-12 digit number. Inputs can be checked for validity (of the number) using  [Verhoeff checksum](http://apps.nic.in/apps/government/aadhaar-number-validation-verhoeff-algorithm).
+Aadhaar is a unique 12 digit number combined with demographic and biometric data. It is operated by the Unique Identification Authority of India (UIDAI), a statutory authority established in January 2009 by the government of India, under the jurisdiction of the Ministry of Electronics and Information Technology.
+
+It gives [proof of residence, but not proof of citizenship](https://www.livelaw.in/aadhaar-card-not-proof-citizenship-calcutta-hc/).
+
+Inputs can be checked for validity (of the number) using  [Verhoeff checksum](http://apps.nic.in/apps/government/aadhaar-number-validation-verhoeff-algorithm).
 
 The Indian government [maintains a list of supported biometric sensors](http://www.stqc.gov.in/sites/upload_files/stqc/files/List%20of%20BiometricDevices_readywith%20RD%20service_14-08-2017.pdf).
 
