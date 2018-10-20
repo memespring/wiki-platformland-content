@@ -9,6 +9,7 @@
 Remove procurement
 * Conduct user research with developers to see if they understand the documentation / example code
 * From private beta, you need people to sign up online so you know you’ve got the pitch right. You need to quickly take the pitch from product owner and put it on the website early.
+* Sandbox environemnt for developers to try code against fake data.
 
 
 
