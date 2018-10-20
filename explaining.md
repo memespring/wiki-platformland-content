@@ -53,3 +53,7 @@ The 1st governments to become nativly digital will have a advantage over other c
 ## The app store
 
 Think of it as a foundation for building other apps on top of.
+
+## The API for government
+
+All government services will be avaliable as APIs for people inside and outside government to build upon. Simular to the 'technology stack' metaphor.
