@@ -10,7 +10,7 @@
 
 ### eKYC
 
-Proof of identity and address using Aadhaar.
+Proof of identity and address using Aadhaar. If authentication is sucessful, the follow data gets returned:
 
 ```
     User_Id: 'OUR SYSTEM USER ID',
