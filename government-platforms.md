@@ -53,7 +53,7 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 
 | Country  | Platform | Self service | Documentation | Code libraries | Ministry | Use |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ----------- | -----------|
-| 🇮🇳 India  | [eSign](http://indiastack.org/esign/) |  | [Yes]()http://cca.gov.in/cca/sites/default/files/files/eSign-APIv2.1.pdf | No | | Society-wide|
+| 🇮🇳 India  | [eSign](http://indiastack.org/esign/) |  | [Yes]()http://cca.gov.in/cca/sites/default/files/files/eSign-APIv2.1.pdf | No | Ministry of Electronics and Information Technology | Society-wide|
 
 ## Service discovery
 * Need for a service discovery platfomr was identified as part of the UK NHS.uk alpha project. An example would be 'show me all the places someone can get a foot examination appointment near $postcode'
