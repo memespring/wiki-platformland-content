@@ -1,7 +1,8 @@
 # India
-##National Cloud of NIC
+## National Cloud of NIC
 
-[https://cloud.gov.in](cloud.gov.in)
+
+[https://cloud.gov.in](cloud.gov.in) is run by the National Informatics Centre,  part of the Ministry of Electronics and Information Technology.
 
 ## IndiaStack
 
