@@ -7,9 +7,9 @@
 
 The UK GDS conducted 150 interviews with service teams across government. Identify teams to talk to from service assessments, reviewing or compiling lists of government services, reviewing PDF forms listed on government websites.
 
-Conduct interviews with teams to undertand what their service does, what needs it is meeting, what needs they would like to meet but can’t, and what support they would like.
+Having a list of all government services/transactions is important. 
 
-Use these to compile a list of the number of services that might benefit from a particular shared capability.
+Conduct interviews with teams to undertand what their service does, what needs it is meeting, what needs they would like to meet but can’t, and what support they would like. Use these to compile a list of the number of services that might benefit from a particular shared capability.
 
 ## Develop institutional capability
 
