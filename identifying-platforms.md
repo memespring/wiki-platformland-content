@@ -1,3 +1,5 @@
+<!-- TITLE: How to identify platforms -->
+<!-- SUBTITLE: Knowing where to place your bets -->
 # Methods for identifying platforms
 
 ## User research with digital service teams
