@@ -1,6 +1,8 @@
 # Real-time government services
 One of the characteristics of today’s digital service is that they operate in real-time. Government services generally do not operate in real-time.
 
+https://medium.com/platform-land/real-time-government-fd774b48e8a4
+
 ## Causes
 
 * Batch processes to copy and share data between parts of government
