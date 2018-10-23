@@ -37,6 +37,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Government as a network](government-as-a-network)
 * [New markets](new-markets)
 * [Ethics and risks](risks)
+* [Better feedback loops](feedback)
 * [Governence, democracy and trust](risks)
 * [Data access not data sharing](data-access)
 * [Putting citizens in control of data](citizens-data)
