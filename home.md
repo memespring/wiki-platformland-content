@@ -17,6 +17,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Some definitions](components)
 * [What makes a good platform](good-platforms)
 * [How to identify platforms](identifying-platforms)
+* [What team do you need?](teams)
 * [Desinging for self-service](documentation)
 * [Designing for digital rights](designing-for-digital-rights)
 * [Knowing what to measure](what-to-measure)
