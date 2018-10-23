@@ -3,7 +3,6 @@
 This is the wiki for the [Platform Land project](https://www.platformland.org). If you would like to contribute to this wiki, please email [richard@memespring.co.uk](mailto:richard@memespring.co.uk) or fork this [repository on GitHub](https://github.com/memespring/wiki-platformland-content).
 
 * [Research questions](research-questions)
-* [The cosntituent parts of GaaP](components)
 
 ## Catalogue
 * [Government platforms](government-platforms)
@@ -13,24 +12,34 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Data and registers](registers)
 
 
-
 ## Guides
 * [Who are the users?](users)
+* [Definitions](components)
 * [What makes a good platform](good-platforms)
 * [Identifying platforms](identifying-platforms)
 * [Good documentation](documentation)
+* [Designing for digital rights](designing-for-digital-rights)
 * [Analytics for policy making](analytics-policy)
 * [Securing funding](funding)
 * [Adoption](adoption)
 * [Governence and operations](governence)
 * [Explaining GaaP](explaining)
 
-## Bigger picture
+## Vision
 
-* [Risks of GaaP](risks)
-* [Data access not data sharing](data-access)
+* [The shape of digital government today](digital-government-today)
+* [A new model](digital-government-tomorrow)
+* [Principles for government as a platform]()
+* [A new way to make policy, a  new way to design services](service-design)
 * [Real-time services](real-time)
-* [Digital proofs](digital-proofs)
+* [Economic efficiency](econimics)
+* [Security](security)
+* [Government as a network](government-as-a-network)
+* [New markets](new-markets)
+* [Ethics and risks](risks)
+* [Governence, democracy and trust](risks)
+* [Data access not data sharing](data-access)
+* [Putting citizens in control of data](citizens-data)
 
 ## Case studies / countries
 * [Estonia](estonia)
