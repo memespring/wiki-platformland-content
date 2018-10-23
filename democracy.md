@@ -1,7 +1,7 @@
 <!-- TITLE: Governence, democracy and trust-->
 <!-- SUBTITLE: Sometimes the user need is democracy -->
 
-# Software is politics
+Software is politics
 
 > What power have you got? Where did you get it from? In whose interests do you exercise it? To whom are you accountable? And how can we get rid of you?
 > - Tony Benn MP[^1]
