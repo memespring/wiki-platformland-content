@@ -17,7 +17,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Definitions](components)
 * [What makes a good platform](good-platforms)
 * [Identifying platforms](identifying-platforms)
-* [Good documentation](documentation)
+* [Desinging for self-service](documentation)
 * [Designing for digital rights](designing-for-digital-rights)
 * [What to measure](what-to-measure)
 * [Securing funding](funding)
