@@ -14,13 +14,13 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 
 ## Guides
 * [Who are the users?](users)
-* [Definitions](components)
+* [Some definitions](components)
 * [What makes a good platform](good-platforms)
-* [Identifying platforms](identifying-platforms)
+* [How to identify platforms](identifying-platforms)
 * [Desinging for self-service](documentation)
 * [Designing for digital rights](designing-for-digital-rights)
-* [What to measure](what-to-measure)
-* [Securing funding](funding)
+* [Knowing what to measure](what-to-measure)
+* [Getting funding](funding)
 * [Adoption](adoption)
 * [Governence and operations](governence)
 * [Explaining GaaP](explaining)
