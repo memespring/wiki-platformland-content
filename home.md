@@ -24,7 +24,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Getting funding](funding)
 * [Adoption](adoption)
 * [Governence and operations](governence)
-* [Explaining GaaP](explaining)
+* [Explaining GaaP to politicians](explaining)
 
 ## Vision
 
