@@ -6,3 +6,8 @@
 ## Singed facts
 
 ## Zero knowlage proofs
+
+## In the real-world
+
+e.g. food safety ratings 
+
