@@ -43,6 +43,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Governence, democracy and trust](democracy)
 * [Data access not data sharing](data-access)
 * [Putting citizens in control of data](citizens-data)
+* [Digital proof](digital-proof)
 
 ## Case studies / countries
 * [Estonia](estonia)
