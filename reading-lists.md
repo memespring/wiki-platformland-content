@@ -7,7 +7,7 @@
 * [Gubbins of Government (video)](https://m.youtube.com/watch?v=02__3UTqXmU) - Mark Foden 2013
 * [The future of local government services (video)](https://m.youtube.com/watch?v=BbbdHJS2t8I) - 
 * [Government as a platform (video)](http://webarchive.nationalarchives.gov.uk/video/GovDigitalService/ZzPU6Pdw05s) - Government Digital Service (2014)
-
+* Making government as a platform real. (2018, September 25). Retrieved October 17, 2018, from https://public.digital/2018/09/25/making-government-as-a-platform-real/
 ## Other
 
 * [Strategies for Two-Sided Markets](https://hbr.org/2006/10/strategies-for-two-sided-markets) (Harvard Business Review 2008)
