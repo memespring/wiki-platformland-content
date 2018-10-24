@@ -1,11 +1,13 @@
-<!-- TITLE: Users -->
-<!-- SUBTITLE: A quick summary of Users -->
+<!-- TITLE: Who are the users? -->
+<!-- SUBTITLE: Different types of users of platforms and their needs -->
 
-# Users
+# Who are the users?
 
 ## Digital service teams
 
+
 ## Citizens / end users of services
+
 
 ## 3rd party suppliers
 
