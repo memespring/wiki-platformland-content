@@ -4,3 +4,7 @@
 ## Platforms / products
 
 ## Data / registers
+
+## Identity and trust layer
+
+## Serivces
