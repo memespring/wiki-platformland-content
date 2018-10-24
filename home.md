@@ -31,7 +31,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [The shape of digital government today](digital-government-today)
 * [A new model](digital-government-tomorrow)
 * [Principles for government as a platform]()
-* [Better public services](service-design)
+* [The prize: better public services](service-design)
 * [Real-time services](real-time)
 * [Economic efficiency](econimics)
 * [Security](security)
