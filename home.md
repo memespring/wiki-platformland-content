@@ -35,7 +35,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Real-time services](real-time)
 * [Economic efficiency](econimics)
 * [Security](security)
-* [Platforms for government ot plstforms for society?](government-society)
+* [Platforms for government or platforms for society?](government-society)
 * [Government as a network](government-as-a-network)
 * [New markets](new-markets)
 * [Ethics and risks](risks)
