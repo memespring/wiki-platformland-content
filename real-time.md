@@ -23,3 +23,7 @@ https://medium.com/platform-land/real-time-government-fd774b48e8a4
 ## Examples
 
 * Tax in Estonia
+* Companies in UK can be create programatically [^1]
+
+
+[^1]: Fireflies and algorithms — the coming explosion of companies. (2018, October 24). Retrieved from https://medium.com/@opencorporates/fireflies-and-algorithms-the-coming-explosion-of-companies-9d53cdb8738f
