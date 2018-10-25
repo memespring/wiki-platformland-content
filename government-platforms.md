@@ -91,7 +91,9 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 | USA :us:  | [cloud.gov](https://cloud.gov) | [Yes](https://cloud.gov/pricing/) | [Yes]()https://cloud.gov/docs/ | [Yes](https://github.com/18F/cf-hello-worlds) |
 | India | [NIC Cloud](https://cloud.gov.in)| [Partially](https://cloud.gov.in/onboarding_procedure.php)| No | No |
 
-## Internalhttps://cloud.gov.in/onboarding_procedure.php tools and platforms
+## Internal
+
+https://cloud.gov.in/onboarding_procedure.php tools and platforms
 (these should possibly be a seperate page with a seperate name)
 
 * Code version control
@@ -100,6 +102,7 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 * Email
 * Continuous integration
 * Wiki
-* Documentation platform
+* Documentation platform e.g. https://portal.max.gov/portal/home
 * Release notes
+* https://portal.max.gov/portal/home
 
