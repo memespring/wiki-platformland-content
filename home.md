@@ -44,6 +44,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Data access not data sharing](data-access)
 * [Putting citizens in control of data](citizens-data)
 * [Digital proof](digital-proof)
+* [Bots and agents](bots-and-agents)
 
 ## Case studies / countries
 * [Estonia](estonia)
