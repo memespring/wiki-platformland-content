@@ -23,6 +23,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Knowing what to measure](what-to-measure)
 * [Getting funding](funding)
 * [Adoption](adoption)
+* [Security](security)
 * [Governence and operations](governence)
 * [Explaining GaaP to politicians](explaining)
 
@@ -34,7 +35,6 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [The prize: better public services](service-design)
 * [Real-time services](real-time)
 * [Economic efficiency](econimics)
-* [Security](security)
 * [Platforms for government or platforms for society?](government-society)
 * [Government as a network](government-as-a-network)
 * [New platforms, new markets](new-markets)
