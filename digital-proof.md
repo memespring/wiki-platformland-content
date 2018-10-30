@@ -11,3 +11,8 @@
 
 e.g. food safety ratings 
 
+
+## standards a implementations
+
+* W3C has a working group https://www.w3.org/2017/vc/WG/
+
