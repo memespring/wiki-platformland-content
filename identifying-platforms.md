@@ -10,6 +10,10 @@ Having a list of all government services/transactions is important.
 
 Conduct interviews with teams to undertand what their service does, what needs it is meeting, what needs they would like to meet but can’t, and what support they would like. Use these to compile a list of the number of services that might benefit from a particular shared capability.
 
+## Surveys
+
+Brazil did a semi-mandated survey to identitfy the services the government offers.
+
 ## Develop institutional capability
 
 Encorage teqms to spot potential shared capabilities, and as an organisation, invest in teams producing common components and platforms.
