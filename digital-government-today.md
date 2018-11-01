@@ -7,7 +7,7 @@ While digital platforms have fundamentally changed the structure of entire indus
 
 Even in countries viewed as leaders in digital government, the progress towards digitisation has mostly been focused on building capability and the introduction of modern approaches to design and technology. While both critical, the digital revolution has only just begun to affect the government.
 
-Questions about how government should be structured for the digital age, and what the institutional, social and technical response remain unanswered.
+Questions about how government should be structured for the digital age - what the institutional, social and technical response shouold be - remain unanswered.
 
 Digital and data risk create new power silos in government. This requires new checks and balances to keep people and the data held about them safe.
 
