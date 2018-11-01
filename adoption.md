@@ -22,6 +22,8 @@ Tell stories about why it is better and how government users are using the platf
 
 Be clear about the value that you are delivering in terms of savings and usage.
 
+Publish the toadmap in the open.
+
 ## Procurement
 
 Remove procuerment from the process as much as possible.
