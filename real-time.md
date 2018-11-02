@@ -23,12 +23,16 @@ Fundamentally, the infrastructure and the data-hygiene does not exist for govern
 
 Why does this matter?
 
-Citizens could be proactively told about a change to their entitlements because a child has reached school age, or to track the exact stage their application is at, rather than pick up the phone.
+
 
 Businesses could be started in real-time and those businesses could benefit from real-time tax calculations.
 Public servants and politicians could spot problems with a service before they become a nationwide problem, and improve their policies on a cycle of weeks and months not years.
 
 There is an opportunity for genuinely better public services if governments can operate real-time services, but to do that means new infrastructure to operate those services on.
+
+
+## Real-time vs event driven
+Citizens could be proactively told about a change to their entitlements because a child has reached school age, or to track the exact stage their application is at, rather than pick up the phone.
 
 ## What are the risks
 
