@@ -1,4 +1,4 @@
-# Real-time government services
+# Real-time and government services
 
 ## Digital services today
 
@@ -12,6 +12,7 @@ It is also generally true that governments do not work in real-time.
 Even where public services are online, it is often not possible for users to, for example, track the exact point in the process their visa application is at, or to be proactively warned about a licence expiring or an upcoming change to the law.
 
 ‘Management information’ tends to be in the form of monthly reports, not real-time feeds, so the feedback loops are longer for teams and policy makers.
+
 Official statistics are often updated on time-frames of months, years or even decades (the Standard Occupational Classification, used by many countries to look for changes in the jobs market is updated approximately every 10 years).
 
 Often, this is because online government services are digital analogues of the paper process that preceded them – the digital parts of the service were slotted in to replace a paper application or renewal form. The processes and infrastructure behind them remain the same.
@@ -24,15 +25,17 @@ Fundamentally, the infrastructure and the data-hygiene does not exist for govern
 Why does this matter?
 
 
-
 Businesses could be started in real-time and those businesses could benefit from real-time tax calculations.
 Public servants and politicians could spot problems with a service before they become a nationwide problem, and improve their policies on a cycle of weeks and months not years.
+
 
 There is an opportunity for genuinely better public services if governments can operate real-time services, but to do that means new infrastructure to operate those services on.
 
 
 ## Real-time vs event driven
-Citizens could be proactively told about a change to their entitlements because a child has reached school age, or to track the exact stage their application is at, rather than pick up the phone.
+A related concept is the idea of event-driven notifications. 
+
+For example, telling citizens about a change to their entitlements because a child has reached school age, or that a passport is due to expire. While these are not strictly speaking _real-time_, they are _timely_.
 
 ## What are the risks
 
