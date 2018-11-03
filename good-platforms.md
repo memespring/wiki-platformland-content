@@ -18,3 +18,7 @@ Remove procurement
 ## Consider misuse / anti user needs 
 
 ## Support fall backs (e.g. cash payments / prove identity in person)
+
+## Simplicity
+
+Generally, platforms should do one thing. Avoid somehting that is too complex or tries to do too much.
