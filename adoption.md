@@ -18,6 +18,8 @@ Be confident in the message that you're communicating. It's going to ‘save thi
 
 Be open and transparent about costs to the government users of the platform. Help them understand the unit costs and that those costs will come down as more  government servies use the paltform. Do this even if they are not directly paying for the service (as it will help them undertsand the cost if that happens in the future).
 
+Explain how it will make the lives of public servants easier as well as the lives of citizens.
+
 ## Openness
 
 Be open about what you are learning through user research and observing usage.
