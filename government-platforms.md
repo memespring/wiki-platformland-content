@@ -91,6 +91,9 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 | USA :us:  | [cloud.gov](https://cloud.gov) | [Yes](https://cloud.gov/pricing/) | [Yes]()https://cloud.gov/docs/ | [Yes](https://github.com/18F/cf-hello-worlds) |
 | India | [NIC Cloud](https://cloud.gov.in)| [Partially](https://cloud.gov.in/onboarding_procedure.php)| No | No |
 
+## Feedback and surveys
+* Brazil may have a single tool for doing this
+*  
 ## Internal
 
 https://cloud.gov.in/onboarding_procedure.php tools and platforms
