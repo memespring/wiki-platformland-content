@@ -10,4 +10,4 @@ Government operates the middleware.
 
 ## Next generation suppliers
 
-* Design systems can save huge amounts of time, allowing designers to focus oin the things that are uynique about the service, rather than thinking about fonts or widgets. One supplier estimated it had saved them 1/2 million dollars. 
+* Design systems can save huge amounts of time, allowing designers to focus oin the things that are uynique about the service, rather than thinking about fonts or widgets. One supplier estimated it had saved them 1/2 million dollars.
