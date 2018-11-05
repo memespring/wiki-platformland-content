@@ -9,7 +9,7 @@ The digital payments platforms in the UK and India are so different as to nearly
 
 That is not to say one is better than the other. The choice about who gets to operate on a platform is a design choice.
 
-![Footprint Key](/uploads/footprint-key.png "Footprint Key")
+![Footprint Key](/uploads/footprint-key.png "Footprint key")
 
 Broadly speaking, platforms can be:
 
@@ -19,12 +19,12 @@ A piece of society-wide infrastructure - for example, used in banking, or by 3rd
 
 UPI and GOV.UK Pay sit towards opposite ends of that spectrum:
 
-![Footprint Pay](/uploads/footprint-pay.png "Footprint Pay")
+![Footprint Pay](/uploads/footprint-pay.png "Footprint of UPI and GOV.UK Pay")
 
 
 The cloud hosting platforms, cloud.gov in the USA and GOV.UK PaaS in the UK are both limited to a single tier of government (federal and central government respectively). NIC Cloud/MeghRaj in India have devised to allow users from central government, states and districts.
 
-
+![Footprint Id](/uploads/footprint-id.png "Footprint of different ID platforms")
 
 
 Looking at identity,  login.gov in the USA provides a light-weight identity platform for federal services. GOV.UK Verify provides a similar service (with additional levels of identity verification) for central government in the UK and has been experimenting with opening the service up to local government. Aadhaar in India is being used beyond government[^2] for people to open bank account (and not without controversy given it is a centralised identity system).
