@@ -23,8 +23,8 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * 📕 [Getting funding](funding)
 * 📕 [Adoption](adoption)
 * 📕 [Security](security)
-* 📕[Governence and operations](governence)
-* 📙[Explaining GaaP to politicians](explaining)
+* 📕 [Governence and operations](governence)
+* 📙 [Explaining GaaP to politicians](explaining)
 
 ## Vision
 
@@ -38,12 +38,12 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * 📕 [Government as a network](government-as-a-network)
 * 📕 [New platforms, new markets](new-markets)
 * 📕 [Ethics and risks](risks)
-* 📕[Better feedback loops](anlytics-policy)
-* 📕[Governence, democracy and trust](democracy)
-* 📕[Data access not data sharing](data-access)
-* 📕[Putting citizens in control of data](citizens-data)
+* 📕 [Better feedback loops](anlytics-policy)
+* 📕 [Governence, democracy and trust](democracy)
+* 📕 [Data access not data sharing](data-access)
+* 📕 [Putting citizens in control of data](citizens-data)
 * 📙 [Digital proof](digital-proof)
-* 📕[Bots and agents](bots-and-agents)
+* 📕 [Bots and agents](bots-and-agents)
 
 ## Case studies / countries
 * 📕[Estonia](estonia)
