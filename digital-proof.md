@@ -24,12 +24,11 @@ But there are benefits:
 
 ## One-use check-codes
 
-One example is the approach used by the GOV.UK ‘Share driving licence’ service. It lets users create a one-use code that a third party (for example a car-rental company) can use to check the details of a licence.
-This has the advantage that it clearly puts the user in control of how and when they share data about themselves.
+One example is the approach used by the GOV.UK ‘Share driving licence’ service. It lets users create a one-use code that a third party (for example a car-rental company) can use to check the details of a licence [^1]. This has the advantage that it clearly puts the user in control of how and when they share data about themselves.
 
 ## Digitally signed facts
 
-Digilocker, part of the IndiaStack project, is a personal datastore for cryptographically signed government documents. For example, users can use it to store a digital representation of their driving licence, signed by the government. As technologist Terence Eden has written, there are many situations where it might be useful for official organisations (government departments, universities, courts, etc) to sign facts, for example, that an individual has a particular qualification or is over 18, or that an organisation has a licence to sell a particular medicine. He also points out that this can be done without a blockchain in sight.²
+Digilocker, part of the IndiaStack project, is a personal datastore for cryptographically signed government documents. For example, users can use it to store a digital representation of their driving licence, signed by the government. As technologist Terence Eden has written, there are many situations where it might be useful for official organisations (government departments, universities, courts, etc) to sign facts, for example, that an individual has a particular qualification or is over 18, or that an organisation has a licence to sell a particular medicine. He also points out that this can be done without a blockchain in sight.[^2]
 
 ## APIs that answer questions
 
@@ -43,17 +42,17 @@ There is no reason some of these digital proofs could not have a printed represe
 ## To do
 
 * What Public Key Infrastructure should governments have in place for signing and sharing data?
-* What are the situations where zero-knowledge proofs have a role to play?³
-* What are the options for new open standards for digital proofs? For example, the w3c Working Group on Verifiable Claims is one such initiative⁴.
+* What are the situations where zero-knowledge proofs have a role to play?[^3]
+* What are the options for new open standards for digital proofs? For example, the w3c Working Group on Verifiable Claims is one such initiative[^4].
 * Digital proofs in the real-world e.g. food safety ratings 
 
 Footnotes:
 
-1 . View or share your driving licence information https://www.gov.uk/view-driving-licence
-2. Things For Which Cryptographic Signing Would Be Useful. (2018, May 27) https://shkspr.mobi/blog/2018/05/things-for-which-cryptographic-signing-would-be-useful/
+[^1]: . View or share your driving licence information https://www.gov.uk/view-driving-licence
+[^2]: Things For Which Cryptographic Signing Would Be Useful. (2018, May 27) https://shkspr.mobi/blog/2018/05/things-for-which-cryptographic-signing-would-be-useful/
 Ankur Shah Delight. (2017, June 22). Zero Knowledge Proof of Age Using Hash Chains. Retrieved October 21, 2018, from http://blog.stratumn.com/zkp-hash-chains/
-3. Zero Knowledge Proofs: An illustrated primer. (2014, November 27) https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/
-4. Verifiable Claims Data Model and Representations. (2017, August 3) https://www.w3.org/TR/verifiable-claims-data-model/
+[^3]: Zero Knowledge Proofs: An illustrated primer. (2014, November 27) https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/
+[^4]: Verifiable Claims Data Model and Representations. (2017, August 3) https://www.w3.org/TR/verifiable-claims-data-model/
 
 
 
