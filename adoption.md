@@ -33,3 +33,5 @@ Publish the toadmap in the open.
 ## Procurement
 
 Remove procuerment from the process as much as possible.
+
+## Open up to more parts of government and society over time.
