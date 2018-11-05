@@ -19,6 +19,8 @@ A piece of society-wide infrastructure - for example, used in banking, or by 3rd
 
 UPI and GOV.UK Pay sit towards opposite ends of that spectrum:
 
+![Footprint Pay](/uploads/footprint-pay.png "Footprint Pay")
+
 
 The cloud hosting platforms, cloud.gov in the USA and GOV.UK PaaS in the UK are both limited to a single tier of government (federal and central government respectively). NIC Cloud/MeghRaj in India have devised to allow users from central government, states and districts.
 
