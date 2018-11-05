@@ -1,6 +1,5 @@
-<!-- TITLE: Government Society -->
-<!-- SUBTITLE: A quick summary of Government Society -->
-
+<!-- TITLE: Platforms for government, platforms for society -->
+# Platforms for government, platforms for society
 
 The digital payments platforms in the UK and India are so different as to nearly be incomparable. UPI in india is a society wide payments system aiming to change how anyone pays for anything digitally. While GOV.UK Pay is a platform for central, and increasingly local government[^1], to take payments are part of government services.
 
