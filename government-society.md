@@ -2,9 +2,6 @@
 <!-- SUBTITLE: A quick summary of Government Society -->
 
 
-Platforms for government or platforms for society?
-
-
 The digital payments platforms in the UK and India are so different as to nearly be incomparable. UPI in india is a society wide payments system aiming to change how anyone pays for anything digitally. While GOV.UK Pay is a platform for central, and increasingly local government[^1], to take payments are part of government services.
 
 That is not to say one is better than the other. The choice about who gets to operate on a platform is a design choice.
@@ -32,6 +29,9 @@ Looking at identity,  login.gov in the USA provides a light-weight identity plat
 Where this model breaks is with e-identity in Estonia, which though its e-residents scheme, offers use of the identity platform to people well beyond its borders[^3]
 
 
+## Open platforms
+[TODO, add arguments from this: https://medium.com/@ShorensteinCtr/wholesale-government-open-data-and-apis-7d5502f9e2be]
+
 
 
 [^1]: GOV.UK Notify and GOV.UK Pay are now available to all local authorities - Government as a Platform. (n.d.). Retrieved October 30, 2018, from https://governmentasaplatform.blog.gov.uk/2018/07/05/notify-pay-local-authorities/
@@ -39,7 +39,3 @@ Where this model breaks is with e-identity in Estonia, which though its e-reside
 [^2]: Banks may use Aadhaar QR code for paperless KYC - Times of India. (n.d.). Retrieved October 30, 2018, from https://timesofindia.indiatimes.com/business/india-business/banks-may-use-aadhaar-qr-code-for-paperless-kyc/articleshow/66370303.cms
 
 [^3]: e-Residency Benefits | Digital Nomad, Freelancer, Startup Company. (n.d.). Retrieved October 30, 2018, from https://e-resident.gov.ee/become-an-e-resident/
-
-
-
-https://medium.com/@ShorensteinCtr/wholesale-government-open-data-and-apis-7d5502f9e2be
