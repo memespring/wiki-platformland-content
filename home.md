@@ -5,11 +5,10 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * [Research questions](research-questions)
 
 ## Catalogue
-* [Government platforms](government-platforms)
-* [Government design systems](government-design-systems)
-* [Manuals/playbooks](government-manuals-and-playbooks)
-* [Standards processes](standards)
-* [Data and registers](registers)
+* [Government platforms](government-platforms)📙
+* [Government design systems](government-design-systems) 📕
+* [Standards processes](standards)📕
+* [Data and registers](registers)📕
 
 
 ## Guides
