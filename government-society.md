@@ -9,7 +9,7 @@ The digital payments platforms in the UK and India are so different as to nearly
 
 That is not to say one is better than the other. The choice about who gets to operate on a platform is a design choice.
 
-
+![Footprint Key](/uploads/footprint-key.png "Footprint Key")
 
 Broadly speaking, platforms can be:
 
