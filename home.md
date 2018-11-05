@@ -1,8 +1,6 @@
 <!-- TITLE: Welcome to the Platform Land Wiki -->
 
-This is the wiki for the [Platform Land project](https://www.platformland.org). If you would like to contribute to this wiki, please email [richard@memespring.co.uk](mailto:richard@memespring.co.uk) or fork this [repository on GitHub](https://github.com/memespring/wiki-platformland-content).
-
-* [Research questions](research-questions)
+This is the wiki for the [Platform Land project](https://www.platformland.org). If you would like to contribute to this wiki, please email [richard_pope@hks.harvard.edu](mailto:richard_pope@hks.harvard.edu) or fork this [repository on GitHub](https://github.com/memespring/wiki-platformland-content).
 
 ## Catalogue
 * 📙 [Government platforms](government-platforms)
