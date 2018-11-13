@@ -11,15 +11,14 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 
 ## Guides
 * 📕 [Who are the users?](users)
-* 📕 [Some definitions](components)
 * 📕 [What makes a good platform](good-platforms)
 * 📕 [How to identify platforms](identifying-platforms)
 * 📕 [What team do you need?](teams)
 * 📕 [Desinging for self-service](documentation)
 * 📕 [Designing for digital rights](designing-for-digital-rights)
 * 📕 [Knowing what to measure](what-to-measure)
-* 📕 [Getting funding](funding)
-* 📕 [Adoption](adoption)
+* 📕 [Funding and charging options](funding)
+* 📕 [Getting adoption](adoption)
 * 📕 [Security](security)
 * 📕 [Governence and operations](governence)
 * 📙 [Explaining GaaP to politicians](explaining)
