@@ -10,7 +10,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 
 
 ## Guides
-* 📕 [Who are the users?](users)
+* 📕 [Understand who your users are](users)
 * 📕 [What makes a good platform](good-platforms)
 * 📕 [How to identify platforms](identifying-platforms)
 * 📕 [What team do you need?](teams)
