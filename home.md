@@ -34,7 +34,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * 📕 [Economic efficiency](econimics)
 * 📙 [Platforms for government or platforms for society?](government-society)
 * 📕 [Government as a network](government-as-a-network)
-* 📕 [New platforms, new markets](new-markets)
+* 📙 [New platforms, new markets](new-markets)
 * 📕 [Ethics and risks](risks)
 * 📕 [Better feedback loops](anlytics-policy)
 * 📕 [Governence, democracy and trust](democracy)
