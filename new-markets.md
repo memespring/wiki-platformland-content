@@ -1,13 +1,17 @@
 <!-- TITLE: New Markets -->
 <!-- SUBTITLE: A quick summary of New Markets -->
 
-# Header
+The adoption of platforms by governments has the potential to create new markets and change existing ones.
 
-Platforms can create new multi-sided markets and allow government to set minimum standards and exercise its buying power.
+## New contractor behavours
 
-Government operates the middleware.
+Government as a platform means less unknowns for contractors working with government. Knowing there are common components for common problems means they can better estimate the work involved up front and budget more accurately. The known quantity that this provides also has the potential to make working with government more accessible and more attractive to work for.
 
 
-## Next generation suppliers
+## The buying power of commodity platforms
 
-* Design systems can save huge amounts of time, allowing designers to focus oin the things that are uynique about the service, rather than thinking about fonts or widgets. One supplier estimated it had saved them 1/2 million dollars.
+Common platforms for commodity based services (things like messaging, printing or payments) open up several new opportunities.
+
+Firstly, demand can be managed by swapping in new suppliers as demand rises or a falls, or if performance of one supplier drops.
+
+Because, by definition, common platforms are about doing something once, this gives government more buying power.
