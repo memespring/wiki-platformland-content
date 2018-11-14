@@ -1,6 +1,8 @@
 <!-- TITLE: Designing for self-service -->
 
-#Desginging for self-service
+# Desginging for self-service
+
+> Jeff Bezos doesn't come around your house if you need to spin out a new EC2 instance - Peter Hurlihy, GOV.UK Notify Product Manager
 
 * [Unit tests for documentation](https://simonwillison.net/2018/Jul/28/documentation-unit-tests/) - Simon Willison (2018)
 
