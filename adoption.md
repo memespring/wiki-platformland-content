@@ -11,6 +11,10 @@ There are risks and oppertunities around trying to get adopted by large / high p
 
 Use the early adopters to show capability and build trust.
 
+## Growing within an organsiation
+
+Once a platform or register has been adoption bny one team in an organisation, it is likely that others will adopt it too. This is partly because of trust, partly because any contractural problems will likely haev been solved.
+
 
 ## Messaging and 'sales'
 
@@ -35,3 +39,8 @@ Publish the toadmap in the open.
 Remove procuerment from the process as much as possible.
 
 ## Open up to more parts of government and society over time.
+
+
+## Actions
+
+* When you start working with a new organsiation, blog and talk about it so other teams in the same organisation know that procurement has been solved
