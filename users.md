@@ -25,7 +25,7 @@ There will also be actors who wish to misuse the platform.
 
 The team operating the platform or register are also users.
 
-Actions:
+## Actions
 
 * Identify potential teams who might use the platform or register
 * Identify the types of user in that team, including non-technical roles
