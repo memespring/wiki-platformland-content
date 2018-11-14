@@ -15,8 +15,25 @@ It is important to start optimising for self-service early, rather than optimisi
 * Try and emulate a highquality opensource vendor.
 * Development teams tend to choose languages based on the preferences of early members of the team. Provide libraries in multiple languages.
 
+## Landing pages
+
+
+## Documentation
+
+## Sample code
+
+## Sandboxes
+
+Let people sign-up and try the platform or register out immediatly. Limit what they can do, for example viewing sample data or only sending messages to themself. Limit accees by ownership of an email address on a particular domain.
+
+## What to do if ...
+
+* **If someone asks for a workshop:** send them a link to the service and ask them to try it out and tell you where they get stuck
+* **You find your team doing repeated manual steps:** prioritise automating those steps (unless they require human intevention by design, for example for ethical or security reasons)
 
 ## Actions
 
 * Design for self-service from day one
+* Create a landing page that explains the paltform or register
 * When blogging or talking about your project, don't invite people to get in touch, ask them to try it out and tell you if they get stuck
+* Think therough what a useful sandbox would be for someone to try it out, without exposing sensitive information.
