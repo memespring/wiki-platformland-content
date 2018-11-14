@@ -32,7 +32,7 @@ Reviewing data from service assessments, legislation and lists of services looki
 
 ## What to do if ...
 
-** An idea for a specific platform or register is being pushed by someone more senior:** Go and talk to people who you think might use the platform and understand if it, or a subset of it, meet actual needs they have.
+**An idea for a specific platform or register is being pushed by someone more senior:** Go and talk to people who you think might use the platform and understand if it, or a subset of it, meet actual needs they have.
 
 
 
