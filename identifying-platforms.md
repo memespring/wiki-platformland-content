@@ -39,5 +39,5 @@ Reviewing data from service assessments, legislation and lists of services looki
 ## Actions
 
 * Create a list of services from across government and identify peopel to conduct user research with
-* 
+* Blog early and often about the project and see if potentual users come forward
 
