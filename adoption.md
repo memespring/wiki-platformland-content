@@ -11,6 +11,8 @@ There are risks and oppertunities around trying to get adopted by large / high p
 
 Use the early adopters to show capability and build trust.
 
+Everybody want's to be second, not first. So, give the 1st user VIP treatment.
+
 ## Growing within an organsiation
 
 Once a platform or register has been adoption bny one team in an organisation, it is likely that others will adopt it too. This is partly because of trust, partly because any contractural problems will likely haev been solved.
@@ -44,3 +46,4 @@ Remove procuerment from the process as much as possible.
 ## Actions
 
 * When you start working with a new organsiation, blog and talk about it so other teams in the same organisation know that procurement has been solved
+* Map out how you will make your team avaliable to support and address concerns of the first user
