@@ -19,6 +19,8 @@ There may be constrains on the funding models that can be employed for certain t
 
 At the same time, certain organisations are required by law to recover costs. In the long run, this is probably not a very good model for operating platforms and registers. In the short-term it is important to understand them.
 
+## What to do if ...
+* **Someone senior says you must charge all users:** show them when it will cost the taxpayer more to charge for the service
 
 ## Actions:
 
