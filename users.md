@@ -32,3 +32,4 @@ The team operating the platform or register are also users.
 * Identify the areas that citizens might interact with the platform
 * Identify anti-users
 * Identify the roles witching the team developing and operating the platform
+* Embed yourself with the organisations who might potentually use the platform or register and record the current touchpoints
