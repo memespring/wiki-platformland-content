@@ -30,3 +30,14 @@ Semi-automated searches of government git repositories looking for common capabi
 
 Reviewing data from service assessments, legislation and lists of services looking for potentual comnmon capabilities.
 
+## What to do if ...
+
+** An idea for a specific platform or register is being pushed by someone more senior:** Go and talk to people who you think might use the platform and understand if it, or a subset of it, meet actual needs they have.
+
+
+
+## Actions
+
+* Create a list of services from across government and identify peopel to conduct user research with
+* 
+
