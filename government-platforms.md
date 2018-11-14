@@ -85,6 +85,8 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 
 ## Storage
 
+## Document checking
+
 ## Hosting
 | Country  | Platform | Self service | Documentation | Code libraries |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
