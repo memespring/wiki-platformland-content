@@ -4,6 +4,11 @@
 
 > Jeff Bezos doesn't come around your house if you need to spin out a new EC2 instance - Peter Hurlihy, GOV.UK Notify Product Manager
 
+
+## Start self service early
+
+It is important to start optimising for self-service early, rather than optimising a pich. Rather than ask people to come to a meeting or a demo, send people a link to the platform or register and ask them to use it and tell you whena dn where they get stuck. 
+
 * [Unit tests for documentation](https://simonwillison.net/2018/Jul/28/documentation-unit-tests/) - Simon Willison (2018)
 
 * Use existing channels, such as NPM, for distributing updates. An example of this is the [US Web Design System](https://www.npmjs.com/package/uswds). 
