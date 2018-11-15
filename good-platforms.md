@@ -17,6 +17,10 @@ Remove procurement
 
 ## Consider misuse / anti user needs 
 
+## Support manual and API usage
+
+Not all users will be programtic. Also a good way for trying out the platform.
+
 ## Support fall backs (e.g. cash payments / prove identity in person)
 
 ## Simplicity
