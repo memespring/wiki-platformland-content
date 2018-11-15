@@ -40,3 +40,5 @@ Let people sign-up and try the platform or register out immediatly. Limit what t
 * When blogging or talking about your project, don't invite people to get in touch, ask them to try it out and tell you if they get stuck
 * Think therough what a useful sandbox would be for someone to try it out, without exposing sensitive information
 * Incorperate answers to reguarly asked questions into the design of the landing page
+* Do user research with developers
+* Do user research with people resonsible for procurement
