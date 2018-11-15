@@ -10,6 +10,8 @@ It is important to have a plan for pivoting if central funding stops.
 
 e.g. GOV.UK PAY
 
+In some circunmstances, this might be a useful way of avoiding the 'free bar' problem.
+
 ## Cost recovery
 
 ## Legal and constitutional constraints
