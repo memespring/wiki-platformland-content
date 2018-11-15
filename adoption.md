@@ -1,5 +1,4 @@
 <!-- TITLE: Adoption -->
-<!-- SUBTITLE: A quick summary of Adoption -->
 
 ## Self service
 
@@ -42,6 +41,8 @@ Remove procuerment from the process as much as possible.
 
 ## Open up to more parts of government and society over time.
 
+## What to do if ...
+* **Someone ask what your service level agreement is**: point them at your status page and uptime data instead
 
 ## Actions
 
