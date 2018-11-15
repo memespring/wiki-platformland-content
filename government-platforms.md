@@ -95,7 +95,12 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 
 ## Feedback and surveys
 * Brazil may have a single tool for doing this
-*  
+
+
+## Status page
+
+## Redirection engine
+
 ## Internal
 
 https://cloud.gov.in/onboarding_procedure.php tools and platforms
