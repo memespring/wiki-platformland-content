@@ -16,6 +16,9 @@ Everybody want's to be second, not first. So, give the 1st user VIP treatment.
 
 Once a platform or register has been adoption bny one team in an organisation, it is likely that others will adopt it too. This is partly because of trust, partly because any contractural problems will likely haev been solved.
 
+## Feature requests
+
+Don't be afraid to say no to feature requests, even from big users, if thney are not meeting a need that you have identified as common for other users.
 
 ## Messaging and 'sales'
 
