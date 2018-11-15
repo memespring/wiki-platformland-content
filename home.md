@@ -20,6 +20,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * 📕 [Funding and charging options](funding)
 * 📕 [Getting adoption](adoption)
 * 📕 [Security](security)
+* 📕 [User support](user-support)
 * 📕 [Governence and operations](governence)
 * 📙 [Explaining GaaP to politicians](explaining)
 
