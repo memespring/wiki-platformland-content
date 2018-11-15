@@ -118,3 +118,4 @@ https://cloud.gov.in/onboarding_procedure.php tools and platforms
 * Release notes
 * https://portal.max.gov/portal/home
 
+[List of internal tools other countries are using (curated by Derek Alton)](https://docs.google.com/spreadsheets/d/13et5wOMA71cdgXSJHldhv-tC4K51HeTfYEglvnoNoyA/htmlview#gid=0)
