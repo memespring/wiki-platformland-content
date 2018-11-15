@@ -24,6 +24,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * 📕 [Understanding organsiational incentives](incentives)
 * 📕 [Security](security)
 * 📕 [User support](user-support)
+* 📕 [Buy, build or borrow](buy-build-borrow)
 * 📕 [Governence and operations](governence)
 * 📙 [Explaining GaaP to politicians](explaining)
 
