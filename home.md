@@ -19,6 +19,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * 📕 [Knowing what to measure](what-to-measure)
 * 📕 [Funding and charging options](funding)
 * 📕 [Getting adoption](adoption)
+* 📕 [Undertand if you need a mandate](mandates)
 * 📕 [Markets](markets)
 * 📕 [Security](security)
 * 📕 [User support](user-support)
