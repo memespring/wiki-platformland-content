@@ -48,4 +48,4 @@ Remove procuerment from the process as much as possible.
 
 * When you start working with a new organsiation, blog and talk about it so other teams in the same organisation know that procurement has been solved
 * Map out how you will make your team avaliable to support and address concerns of the first user
-* Map out users existing pain points regaurding procurement 
+* Map out users procurement pain-points and prioritise addressing them 
