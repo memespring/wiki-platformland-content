@@ -17,6 +17,7 @@ It is important to start optimising for self-service early, rather than optimisi
 
 ## Landing pages
 
+It is likley that people will ask the same questions, things like 'where are you hosted',  'how much will it cost', 'how secure is it'. Keep a record of questions that peopel are reguarly asking and aim to answer them in the design of the landing page (not hidden on an FAQ page).
 
 ## Documentation
 
@@ -36,4 +37,5 @@ Let people sign-up and try the platform or register out immediatly. Limit what t
 * Design for self-service from day one
 * Create a landing page that explains the paltform or register
 * When blogging or talking about your project, don't invite people to get in touch, ask them to try it out and tell you if they get stuck
-* Think therough what a useful sandbox would be for someone to try it out, without exposing sensitive information.
+* Think therough what a useful sandbox would be for someone to try it out, without exposing sensitive information
+* Incorperate answers to reguarly asked questions into the design of the landing page
