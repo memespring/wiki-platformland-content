@@ -15,3 +15,5 @@ Common platforms for commodity based services (things like messaging, printing o
 Firstly, demand can be managed by swapping in new suppliers as demand rises or a falls, or if performance of one supplier drops.
 
 Because, by definition, common platforms are about doing something once, this gives government more buying power.
+
+Government can drive quality up e.g. text messaging in UK.
