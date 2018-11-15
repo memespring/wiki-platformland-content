@@ -7,6 +7,8 @@ The adoption of platforms by governments has the potential to create new markets
 
 Government as a platform means less unknowns for contractors working with government. Knowing there are common components for common problems means they can better estimate the work involved up front and budget more accurately. The known quantity that this provides also has the potential to make working with government more accessible and more attractive to work for.
 
+Integration with a platform or register can be a selling point for suppliers.
+
 
 ## The buying power of commodity platforms
 
