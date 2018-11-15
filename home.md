@@ -21,6 +21,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * 📕 [Getting adoption](adoption)
 * 📕 [Undertand if you need a mandate](mandates)
 * 📕 [Markets](markets)
+* 📕 [Understanding organsiational incentives](incentives)
 * 📕 [Security](security)
 * 📕 [User support](user-support)
 * 📕 [Governence and operations](governence)
