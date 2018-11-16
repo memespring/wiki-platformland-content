@@ -21,7 +21,7 @@ Encorage teqms to spot potential shared capabilities, and as an organisation, in
 Use [Wardley mapping](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html) to identify potentual for shared components / existing duplicaiton.
 
 
-## Look for underutalised resources
+## Look for underutilised  resources
 
 e.g. government printers / government offices, and wrap them in an API
 
