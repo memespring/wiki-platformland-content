@@ -10,6 +10,7 @@ Meet the needs of service teams, so that they can meet the needs of their users,
 
 Platforms represent shared infrastructure. A modern government needs to approach digital platforms in the same way it does roads or company law.
 
+You can also point to exiasting digital infrastructure. e.g. weather.gov and GPS are platforms provided by the US federal government that others build upon.
 
 ## A better, digital, democracy
 
