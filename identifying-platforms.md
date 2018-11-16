@@ -35,6 +35,10 @@ Semi-automated searches of government git repositories looking for common capabi
 
 Reviewing data from service assessments, legislation and lists of services looking for potentual comnmon capabilities.
 
+## Spin out of other projects
+
+e.g. login.gov was [formed out of the myUSA project](https://github.com/18F/myusa)
+
 ## What to do if ...
 
 **An idea for a specific platform or register is being pushed by someone more senior:** Go and talk to people who you think might use the platform and understand if it, or a subset of it, meet actual needs they have.
