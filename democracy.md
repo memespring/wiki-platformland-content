@@ -7,7 +7,7 @@ Software is politics
 > - Tony Benn MP[^1]
 
 
-What parts of the system should never be outsourced.
+What parts of the system should never be out-sourced?
 
 
 https://blog.memespring.co.uk/2015/01/23/democracy-at-the-point-of-use/

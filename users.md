@@ -13,9 +13,9 @@ These teams will include designers and developers, but also people responsible f
 
 Once your common platform or a data register has been adopted, there may be admin users.
 
-## Citizens / end users of services
+## Citizens/end users of services
 
-Having said the public are not the primary users, there may be ways that they public use the platform directly.
+Having said the public are not the primary users, there may be ways that the public use the platform directly.
 
 ## Anti-users and misuse
 

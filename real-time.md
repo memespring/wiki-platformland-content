@@ -2,7 +2,7 @@
 
 ## Digital services today
 
-One of the characteristics of today’s digital services is that they operate in real-time. If you want to buy something on Amazon, you see if it’s out-of-stock immediately. Pricing on Uber responds to demand in real-time, so you pay more when there are less cars about.
+One of the characteristics of today’s digital services is that they operate in real-time. If you want to buy something on Amazon, you see if it’s out-of-stock immediately. Pricing on Uber responds to demand in real-time, so you pay more when there are fewer cars about.
 
 There are also real-time feedback loops to the teams running those services. They can see, in real-time, how many people are using their service, where they are getting stuck and what’s not working as it should.
 Now, there are both good and bad things about that, [especially when it comes to opaque, personalised pricing](https://wearecitizensadvice.org.uk/markets-dont-work-like-they-used-to-and-people-are-starting-to-notice-af00ed38014d?gi=d40aa3af05cf), but it is generally true.
@@ -11,7 +11,7 @@ It is also generally true that governments do not work in real-time.
 
 Even where public services are online, it is often not possible for users to, for example, track the exact point in the process their visa application is at, or to be proactively warned about a licence expiring or an upcoming change to the law.
 
-‘Management information’ tends to be in the form of monthly reports, not real-time feeds, so the feedback loops are longer for teams and policy makers.
+‘Management information’ tends to be in the form of monthly reports, not real-time feeds, so the feedback loops are longer for teams and policymakers.
 
 Official statistics are often updated on time-frames of months, years or even decades (the Standard Occupational Classification, used by many countries to look for changes in the jobs market is updated approximately every 10 years).
 
@@ -32,7 +32,7 @@ Public servants and politicians could spot problems with a service before they b
 There is an opportunity for genuinely better public services if governments can operate real-time services, but to do that means new infrastructure to operate those services on.
 
 
-## Real-time vs event driven
+## Real-time vs event-driven
 A related concept is the idea of event-driven notifications. 
 
 For example, telling citizens about a change to their entitlements because a child has reached school age, or that a passport is due to expire. While these are not strictly speaking _real-time_, they are _timely_.
@@ -45,9 +45,9 @@ For example, telling citizens about a change to their entitlements because a chi
 ## Examples of real-time systems
 
 * Tax in Estonia
-* Companies in UK can be create programatically [^1]
+* Companies in UK can be created programmatically [^1]
 
-[^1]: Fireflies and algorithms — the coming explosion of companies. (2018, October 24). Retrieved from https://medium.com/@opencorporates/fireflies-and-algorithms-the-coming-explosion-of-companies-9d53cdb8738f
+[^1]: Fireflies and algorithms -- the coming explosion of companies. (2018, October 24). Retrieved from https://medium.com/@opencorporates/fireflies-and-algorithms-the-coming-explosion-of-companies-9d53cdb8738f
 
 
 ## Blog posts

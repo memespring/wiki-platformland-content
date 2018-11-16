@@ -10,16 +10,16 @@ There are obvious downsides of this:
 
 * As digital printers have become ubiquitous, forgery has become easier (although anti-forgery features, secure printing, distribution and supply of documents can mitigate this risk)
 
-* More information may be shared with than is necessary for the task the holder is trying to complete — for example, using a driving licence to prove entitlement to drink alcohol may reveal someone’s date of birth and address
+* More information may be shared with than is necessary for the task the holder is trying to complete -- for example, using a driving licence to prove entitlement to drink alcohol may reveal someone’s date of birth and address
 * Printing and posting paper documents takes time, and that makes it harder to design services that respond in real-time
 High-value, hard to replace documents like passports or birth certificates get used for trivial purposes, like checking in to a hotel
 
 But there are benefits:
 
 * People can prove things to whoever they like and however they like: the designers of a service don’t need to guess up-front all the different situations that someone might experience
-* People can prove to one part of government that another part of government agrees a certain fact about them — for example, that they own a property — without the need for duplicating and sharing entire datasets between organisations.
-* Paper certificates and cards are tangible things — real-world representations of a service or entitlement
-* It’s up to the organisation or individual recieving the proof to decide if they trust it or not, which allows for flexibility
+* People can prove to one part of government that another part of government agrees a certain fact about them -- for example, that they own a property -- without the need for duplicating and sharing entire datasets between organisations.
+* Paper certificates and cards are tangible things -- real-world representations of a service or entitlement
+* It’s up to the organisation or individual receiving the proof to decide if they trust it or not, which allows for flexibility
 * Digital proofs, of various types, offer the opportunity to keep some of the good things about paper, while removing some of the risks.
 
 ## One-use check-codes
@@ -32,7 +32,7 @@ Digilocker, part of the IndiaStack project, is a personal datastore for cryptogr
 
 ## APIs that answer questions
 
-Rather than sharing a full database record about someone, it is possible to design APIs that answer specific questions. For example, ‘does this car have a permit to park in this area — yes or no?’ ‘Is this person entitled to work in this country — yes or no?’
+Rather than sharing a full database record about someone, it is possible to design APIs that answer specific questions. For example, ‘does this car have a permit to park in this area -- yes or no?’ ‘Is this person entitled to work in this country -- yes or no?’
 This allows the public to prove facts about themselves, but also one part of government to ask a question of another part, without all the negatives that come with traditional approaches to ‘data-sharing’ in government.
 
 ## A replacement for paper?

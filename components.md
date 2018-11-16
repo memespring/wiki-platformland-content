@@ -1,5 +1,4 @@
 <!-- TITLE: Components -->
-<!-- SUBTITLE: A quick summary of Components -->
 
 ## Platforms / products
 
@@ -7,4 +6,4 @@
 
 ## Identity and trust layer
 
-## Serivces
+##Services

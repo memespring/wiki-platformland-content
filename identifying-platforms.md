@@ -8,17 +8,17 @@ The UK GDS conducted 150 interviews with service teams across government. Identi
 
 Having a list of all government services/transactions is important. 
 
-Conduct interviews with teams to undertand what their service does, what needs it is meeting, what needs they would like to meet but can’t, and what support they would like. Use these to compile a list of the number of services that might benefit from a particular shared capability.
+Conduct interviews with teams to understand what their service does, what needs it is meeting, what needs they would like to meet but can’t, and what support they would like. Use these to compile a list of the number of services that might benefit from a particular shared capability.
 
 ## Surveys
 
-Brazil did a semi-mandated survey to identitfy the services the government offers.
+Brazil did a semi-mandated survey to identify the services the government offers.
 
 ## Develop institutional capability
 
-Encorage teqms to spot potential shared capabilities, and as an organisation, invest in teams producing common components and platforms.
+Encourage teams to spot potential shared capabilities, and as an organisation, invest in teams producing common components and platforms.
 
-Use [Wardley mapping](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html) to identify potentual for shared components / existing duplicaiton.
+Use [Wardley mapping](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html) to identify the potential for shared components / existing duplication.
 
 ## 'Horizon scanning'
 
@@ -28,5 +28,5 @@ Semi-automated searches of government git repositories looking for common capabi
 
 ## Desk research
 
-Reviewing data from service assessments, legislation and lists of services looking for potentual comnmon capabilities.
+Reviewing data from service assessments, legislation and lists of services looking for potential common capabilities.
 

@@ -20,7 +20,7 @@ The Indian government [maintains a list of supported biometric sensors](http://w
 
 ### eKYC
 
-Proof of identity and address using Aadhaar. If authentication is sucessful, the following data gets returned:
+Proof of identity and address using Aadhaar. If authentication is successful, the following data gets returned:
 
 ```
     User_Id: 'OUR SYSTEM USER ID',
@@ -64,13 +64,13 @@ Proof of identity and address using Aadhaar. If authentication is sucessful, the
 
 ### Unified Payment Interface (UPI)
 
-A nationwide and economy-wide payments system. Users can send of request money using different identifiders (Aadhaaar number, phone number, bank acount or 'virtual payment address')
+A nationwide and economy-wide payments system. Users can send or request money using different identifiers (Aadhaaar number, phone number, bank account or 'virtual payment address')
 
 ### Digilocker
 
-[DigiLocker](https://digilocker.gov.in) personal data store for signed documents / digital proofs. It's operated by the Ministry of Electronics & Information Technology. It uses Aadhaar for linking government documents (although it is possible to use DigiLocker without linking it to an Aadhaar account [citation needed].
+[DigiLocker](https://digilocker.gov.in) personal data store for signed documents / digital proofs. It is operated by the Ministry of Electronics & Information Technology. It uses Aadhaar for linking government documents (although it is possible to use DigiLocker without linking it to an Aadhaar account [citation needed].
 
-[It is possible to add a digital driving licence to DigiLocker](https://indianexpress.com/article/what-is/digilocker-indian-railways-id-proof-aadhaar-card-driving-licence-upload-documents-5246808/). Driving licences and Aadhaar accounts in DigiLocker can be used as valid idenetity docuemmtns for travelling on India Railways.
+[It is possible to add a digital driving licence to DigiLocker](https://indianexpress.com/article/what-is/digilocker-indian-railways-id-proof-aadhaar-card-driving-licence-upload-documents-5246808/). Driving licences and Aadhaar accounts in DigiLocker can be used as valid identity documents for travelling on India Railways.
 
 
 

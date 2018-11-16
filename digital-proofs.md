@@ -1,5 +1,4 @@
-<!-- TITLE: Digital Proofs -->
-<!-- SUBTITLE: A quick summary of Digital Proofs -->
+<!-- TITLE: Digital proofs -->
 
 # Header
 

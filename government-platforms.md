@@ -43,7 +43,7 @@
 e.g. how many parking spaces are free in the hospital car-park
 
 ## Visualisation and graphing
-The parrell here is with the [Google Charts API ](https://developers.google.com/chart/). There were conoversations about this at the UK Government Digital Service, but the 'Performance Platform' graph library was never abstracted out into a dedicated service.
+The parallel here is with the [Google Charts API ](https://developers.google.com/chart/). There were conversations about this at the UK Government Digital Service, but the 'Performance Platform' graph library was never abstracted out into a dedicated service.
 
 ## Booking
 
@@ -57,11 +57,11 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 | 🇮🇳 India  | [eSign](http://indiastack.org/esign/) |  | [Limited](http://cca.gov.in/cca/sites/default/files/files/eSign-APIv2.1.pdf) | No | Ministry of Electronics and Information Technology | Society-wide|
 
 ## Service discovery
-* Need for a service discovery platfomr was identified as part of the UK NHS.uk alpha project. An example would be 'show me all the places someone can get a foot examination appointment near $postcode'
+* Need for a service discovery platform was identified as part of the UK NHS.uk alpha project. An example would be 'show me all the places someone can get a foot examination appointment near $postcode'
 
 ## Procurement and contracts
 
-## Digital proofs
+## Digital Proofs
 
 * Washington State [allows for digital signatures via GPG](https://lists.gnupg.org/pipermail/gnupg-users/2018-September/060987.html) to notarise documents
 * Estonia's digital id card can be used to sign documents
@@ -97,7 +97,7 @@ The parrell here is with the [Google Charts API ](https://developers.google.com/
 ## Internal
 
 https://cloud.gov.in/onboarding_procedure.php tools and platforms
-(these should possibly be a seperate page with a seperate name)
+(these should possibly be a separate page with a distinct name)
 
 * Code version control
 * Single sign-on for public servants

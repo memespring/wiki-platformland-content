@@ -1,5 +1,4 @@
-<!-- TITLE: Anlytics Policy -->
-<!-- SUBTITLE: A quick summary of Anlytics Policy -->
+<!-- TITLE: Anlytics and policy -->
 
 # Header
 

@@ -13,7 +13,7 @@ Platforms represent shared infrastructure. A modern government needs to approach
 
 ## A better, digital, democracy
 
-Digitla platforms can tranform the relationship between citizens and their government.
+Digital platforms can transform the relationship between citizens and their government.
 
 ## The technology stack
 
@@ -35,20 +35,20 @@ Government is doing X thing N times. It's wasting money and is confusing for cit
 
 ## Inconstitency
 
-Government does not have a difinitive list of companies / local authorities. 
+Government does not have a definitive list of companies / local authorities. 
 
 ## Building blocks
 
-By building reusable blocks - like booking an appointment or paying for somethign - we can make it quicker and cheaper to assemble services.
+By building reusable blocks - like booking an appointment or paying for something - we can make it quicker and cheaper to assemble services.
 
 Cons: It's hard to explain the parts that don't have a user-facing component such as a register of companies.
 
 ## Enabling end-to-end service redesign
 
 
-## First mover oppertunity
+## First mover opportunity
 
-The 1st governments to become nativly digital will have a advantage over other countries.
+The 1st governments to become natively digital will have an advantage over other countries.
 
 ## The app store
 
@@ -56,7 +56,7 @@ Think of it as a foundation for building other apps on top of.
 
 ## The API for government
 
-All government services will be avaliable as APIs for people inside and outside government to build upon. Simular to the 'technology stack' metaphor.
+All government services will be available as APIs for people inside and outside government to build upon. Similar to the 'technology stack' metaphor.
 
 
-## Wholesle vs retail
+## Wholesale vs retail

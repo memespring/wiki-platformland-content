@@ -3,4 +3,4 @@
 
 # Government as a network
 
-* Whata re the issues about one part of government providing a platform for another? How will platforms work in a federal system?
+* What are the issues about one part of government providing a platform for another? How will platforms work in a federal system?

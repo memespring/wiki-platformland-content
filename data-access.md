@@ -1,4 +1,3 @@
-<!-- TITLE: Data Access -->
-<!-- SUBTITLE: A quick summary of Data Access -->
+<!-- TITLE: Data access not data sharing-->
 
 https://theodi.org/topic/data-infrastructure/
