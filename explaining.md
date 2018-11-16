@@ -66,3 +66,6 @@ All government services will be avaliable as APIs for people inside and outside 
 
 
 ## Wholesle vs retail
+
+## Actions
+* Setup a training course for senior people that explains the basics of APIs, registers, common platforms
