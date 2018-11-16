@@ -10,7 +10,7 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 
 
 ## Guides
-* 📕 [Understand who your users are](users)
+* 📙 [Understand who your users are](users)
 * 📕 [What makes a good platform](good-platforms)
 * 📕 [How to identify platforms](identifying-platforms)
 * 📕 [What team do you need?](teams)
@@ -19,7 +19,12 @@ This is the wiki for the [Platform Land project](https://www.platformland.org). 
 * 📕 [Knowing what to measure](what-to-measure)
 * 📕 [Funding and charging options](funding)
 * 📕 [Getting adoption](adoption)
+* 📕 [Undertand if you need a mandate](mandates)
+* 📕 [Markets](markets)
+* 📕 [Understanding organsiational incentives](incentives)
 * 📕 [Security](security)
+* 📕 [User support](user-support)
+* 📕 [Buy, build or borrow](buy-build-borrow)
 * 📕 [Governence and operations](governence)
 * 📙 [Explaining GaaP to politicians](explaining)
 

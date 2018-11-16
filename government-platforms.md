@@ -29,6 +29,8 @@
 | :gb: UK | [GOV.UK Performance Platform](https://www.gov.uk/performance) | No | No |  |
 
 
+ ## Blogging
+ 
 ## Publishing
 
 | Country  | Platform | Self service | Documentation |
@@ -85,6 +87,8 @@ The parallel here is with the [Google Charts API ](https://developers.google.com
 
 ## Storage
 
+## Document checking
+
 ## Hosting
 | Country  | Platform | Self service | Documentation | Code libraries |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -93,7 +97,12 @@ The parallel here is with the [Google Charts API ](https://developers.google.com
 
 ## Feedback and surveys
 * Brazil may have a single tool for doing this
-*  
+
+
+## Status page
+
+## Redirection engine
+
 ## Internal
 
 https://cloud.gov.in/onboarding_procedure.php tools and platforms
@@ -109,3 +118,4 @@ https://cloud.gov.in/onboarding_procedure.php tools and platforms
 * Release notes
 * https://portal.max.gov/portal/home
 
+[List of internal tools other countries are using (curated by Derek Alton)](https://docs.google.com/spreadsheets/d/13et5wOMA71cdgXSJHldhv-tC4K51HeTfYEglvnoNoyA/htmlview#gid=0)

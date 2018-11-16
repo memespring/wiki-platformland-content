@@ -11,6 +11,18 @@ There are risks and opportunities around trying to get adopted by large / high p
 Use the early adopters to show capability and build trust. 
   
 
+Everybody want's to be second, not first. So, give the 1st user VIP treatment.
+
+## Growing within an organsiation
+
+Once a platform or register has been adoption bny one team in an organisation, it is likely that others will adopt it too. This is partly because of trust, partly because any contractural problems will likely have been solved.
+
+Find the people in the organsition who will champion the use of the platform/register and make them the hero.
+
+## Feature requests
+
+Don't be afraid to say no to feature requests, even from big users, if thney are not meeting a need that you have identified as common for other users.
+
 ## Messaging and 'sales'
 
 Be confident in the message that you're communicating. It's going to ‘save this much time’ or ‘it's going to be this much more valuable in terms of marginal costs’ or ‘your integration costs are going to be lower’.
@@ -33,4 +45,17 @@ Publish the roadmap in the open.
 
 Remove procurement from the process as much as possible.
 
+## Show thew thing
+
+Showing a prototype working with tghe real service is worth a million slick sales presentations.
+
 ## Open up to more parts of government and society over time.
+
+## What to do if ...
+* **Someone ask what your service level agreement is**: point them at your status page and uptime data instead
+
+## Actions
+
+* When you start working with a new organsiation, blog and talk about it so other teams in the same organisation know that procurement has been solved
+* Map out how you will make your team avaliable to support and address concerns of the first user
+* Map out users procurement pain-points and prioritise addressing them 

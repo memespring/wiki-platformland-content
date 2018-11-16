@@ -20,6 +20,11 @@ Encourage teams to spot potential shared capabilities, and as an organisation, i
 
 Use [Wardley mapping](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html) to identify the potential for shared components / existing duplication.
 
+
+## Look for underutilised  resources
+
+e.g. government printers/government offices, and wrap them in an API
+
 ## 'Horizon scanning'
 
 ## Code reviews
@@ -29,4 +34,19 @@ Semi-automated searches of government git repositories looking for common capabi
 ## Desk research
 
 Reviewing data from service assessments, legislation and lists of services looking for potential common capabilities.
+
+## Spin out of other projects
+
+e.g. login.gov was [formed out of the myUSA project](https://github.com/18F/myusa)
+
+## What to do if ...
+
+**An idea for a specific platform or register is being pushed by someone more senior:** Go and talk to people who you think might use the platform and understand if it, or a subset of it, meet actual needs they have.
+
+
+
+## Actions
+
+* Create a list of services from across government and identify people to conduct user research with
+* Blog early and often about the project and see if potential users come forward
 
