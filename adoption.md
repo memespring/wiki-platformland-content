@@ -14,7 +14,9 @@ Everybody want's to be second, not first. So, give the 1st user VIP treatment.
 
 ## Growing within an organsiation
 
-Once a platform or register has been adoption bny one team in an organisation, it is likely that others will adopt it too. This is partly because of trust, partly because any contractural problems will likely haev been solved.
+Once a platform or register has been adoption bny one team in an organisation, it is likely that others will adopt it too. This is partly because of trust, partly because any contractural problems will likely have been solved.
+
+Find the people in the organsition who will champion the use of the platform/register and make them the hero.
 
 ## Feature requests
 
