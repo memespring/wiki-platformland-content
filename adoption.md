@@ -42,6 +42,10 @@ Publish the toadmap in the open.
 
 Remove procuerment from the process as much as possible.
 
+## Show thew thing
+
+Showing a prototype working with tghe real service is worth a million slick sales presentations.
+
 ## Open up to more parts of government and society over time.
 
 ## What to do if ...
